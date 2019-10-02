@@ -1,0 +1,20 @@
+AGENCIA ESTATAL DE METEOROLOGÍA
+PREDICCIÓN PARA LA PROVINCIA DE MADRID
+DÍA 12 DE ENERO DE 2019 A LAS 15:51 HORA OFICIAL
+PREDICCIÓN VALIDA PARA EL DOMINGO 13
+
+MADRID
+En la Sierra, nuboso o con intervalos de nubes bajas que tienden a
+disminuir por la tarde; en el resto poco nuboso o despejado.
+Temperaturas sin cambios o en ligero aumento. Heladas matinales
+débiles generalizadas. Vientos del norte, siendo más intensos en
+la Sierra y flojos en el resto.
+
+TEMPERATURAS MÍNIMAS Y MÁXIMAS PREVISTAS (C):
+Madrid                        0   10  
+Alcalá de Henares             -5  12  
+Getafe                        -1  11  
+Collado Villalba              -2  12  
+Navalcarnero                  1   10  
+Aranjuez                      -6  12  
+

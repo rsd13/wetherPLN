@@ -1,0 +1,836 @@
+provincia,fecha,frase,clase
+ALACANT/ALICANTE,2018-11-30,Temperaturas mínimas en ascenso y máximas en descenso en el interior .,temperatura
+ALACANT/ALICANTE,2018-11-30,Viento del noroeste moderado .,viento
+ALACANT/ALICANTE,2018-12-03,Poco nuboso con algunos intervalos de nubes altas .,nubes
+ALACANT/ALICANTE,2018-12-03,Temperaturas en ascenso .,temperatura
+ALACANT/ALICANTE,2018-12-03,Viento de componente oeste flojo tendiendo a variable por la tarde .,viento
+ALACANT/ALICANTE,2018-11-25,Cielo con intervalos de nubes medias y altas .,nubes
+ALACANT/ALICANTE,2018-11-25,No se descarta alguna precipitación débil .,precipitacion
+ALACANT/ALICANTE,2018-11-25,Temperaturas con pocos cambios .,temperatura
+ALACANT/ALICANTE,2018-11-25,Viento de componente oeste en general moderado .,viento
+ALACANT/ALICANTE,2018-12-16,Tendiendo a poco nuboso o despejado por la tarde .,nubes
+ALACANT/ALICANTE,2018-12-16,Temperaturas en ascenso .,temperatura
+ALACANT/ALICANTE,2018-12-16,Viento del oeste flojo a moderado .,viento
+ALACANT/ALICANTE,2019-01-11,Cielo despejado o poco nuboso .,nubes
+ALACANT/ALICANTE,2019-01-11,Temperaturas mínimas en descenso y máximas con pocos cambios .,temperatura
+ALACANT/ALICANTE,2019-01-11,Heladas generalizadas en el interior y que de manera débil podrán alcanzar las zonas interiores de los litorales .,temperatura
+ALACANT/ALICANTE,2019-01-11,Viento variable flojo .,viento
+ALACANT/ALICANTE,2018-12-24,Cielo poco nuboso con intervalos de nubes altas .,nubes
+ALACANT/ALICANTE,2018-12-24,Temperaturas sin cambios importantes con probables heladas débiles en puntos del interior .,temperatura
+ALACANT/ALICANTE,2018-12-24,Viento variable flojo .,viento
+ALACANT/ALICANTE,2018-11-20,Predominio de cielo nuboso ;con apertura de claros a partir de la tarde .,nubes
+ALACANT/ALICANTE,2018-11-20,No se descartan precipitaciones débiles y ocasionales en el interior .,precipitacion
+ALACANT/ALICANTE,2018-11-20,Temperaturas mínimas con pocos cambios y las máximas en ascenso .,temperatura
+ALACANT/ALICANTE,2018-11-20,Viento del oeste y suroeste flojo con intervalos de moderado .,viento
+ALACANT/ALICANTE,2018-12-13,Cielo entre nuboso y cubierto .,nubes
+ALACANT/ALICANTE,2018-12-13,Se esperan precipitaciones en general débiles ;que a partir de la mañana afectarán la mayor parte del territorio .,precipitacion
+ALACANT/ALICANTE,2018-12-13,La cota de nieve bajará por la tarde hasta 1000 - 1200 m. Temperaturas mínimas con pocos cambios y las máximas en descenso .,nieve
+ALACANT/ALICANTE,2018-12-13,Viento del oeste y suroeste flojo con intervalos de moderado ;aumentando por la tarde a oeste y noroeste moderado con intervalos de fuerte ;más frecuentes en áreas de montaña .,viento
+ALACANT/ALICANTE,2019-01-08,Cielo poco nuboso o despejado ;salvo a primeras horas ;cuando habrá intervalos nubosos sin descartar alguna llovizna ocasional .,nubes
+ALACANT/ALICANTE,2019-01-08,Temperaturas sin cambios importantes ;o ascensos locales .,temperatura
+ALACANT/ALICANTE,2019-01-08,Heladas débiles en puntos del interior .,temperatura
+ALACANT/ALICANTE,2019-01-08,Viento variable tendiendo a oeste y noroeste flojo .,viento
+ALACANT/ALICANTE,2018-12-21,Poco nuboso o despejado .,nubes
+ALACANT/ALICANTE,2018-12-21,Temperaturas mínimas en descenso o sin cambios y máximas en ascenso o sin cambios .,temperatura
+ALACANT/ALICANTE,2018-12-21,Alguna helada débil en el interior .,temperatura
+ALACANT/ALICANTE,2018-12-21,Viento del oeste y suroeste flojo ;con intervalos de moderado en el litoral .,viento
+ALACANT/ALICANTE,2018-11-29,Cielo poco nuboso o despejado con intervalos de nubes altas .,nubes
+ALACANT/ALICANTE,2018-11-29,Temperaturas con pocos cambios o en ligero descenso .,temperatura
+ALACANT/ALICANTE,2018-11-29,Viento variable flojo con predominio de la componente oeste .,viento
+ALACANT/ALICANTE,2018-12-28,Cielo con intervalos de nubes bajas ;sin descartar alguna precipitación débil y dispersa .,nubes-precipitacion
+ALACANT/ALICANTE,2018-12-28,Brumas y bancos de niebla matinales .,humedad
+ALACANT/ALICANTE,2018-12-28,Temperaturas con pocos cambios .,temperatura
+ALACANT/ALICANTE,2018-12-28,Viento variable flojo .,viento
+ALACANT/ALICANTE,2018-12-06,Cielo poco nuboso o despejado .,nubes
+ALACANT/ALICANTE,2018-12-06,Temperaturas mínimas sin cambios importantes y máximas con descensos locales en el interior .,temperatura
+ALACANT/ALICANTE,2018-12-06,Viento variable flojo .,viento
+ALACANT/ALICANTE,2018-12-05,Intervalos de nubes altas ;tendiendo a despejar al final .,nubes
+ALACANT/ALICANTE,2018-12-05,Temperaturas con pocos cambios .,temperatura
+ALACANT/ALICANTE,2018-12-05,Viento variable flojo con predominio de la componente oeste .,viento
+ALACANT/ALICANTE,2018-12-19,Cielo nuboso al principio ;tendiendo hacia mediodía a poco nuboso con intervalos de nubes altas .,nubes
+ALACANT/ALICANTE,2018-12-19,Temperaturas mínimas en ascenso ; máximas en ascenso en el litoral y pocos cambios en el interior .,temperatura
+ALACANT/ALICANTE,2018-12-19,Viento de componente oeste flojo a moderado .,viento
+ALACANT/ALICANTE,2018-12-22,Intervalos de nubes altas .,nubes
+ALACANT/ALICANTE,2018-12-22,Temperaturas en ascenso .,temperatura
+ALACANT/ALICANTE,2018-12-22,Viento de componente oeste flojo .,viento
+ALACANT/ALICANTE,2018-12-10,Intervalos de nubes altas ;más abundantes por la tarde .,nubes
+ALACANT/ALICANTE,2018-12-10,Temperaturas en descenso ;sobre todo las máximas .,temperatura
+ALACANT/ALICANTE,2018-12-10,Viento variable flojo .,viento
+ALACANT/ALICANTE,2018-11-23,Nuboso o cubierto con precipitaciones ocasionales durante la primera mitad del día ;disminuyendo la nubosidad por la tarde a poco nuboso .,precipitacion
+ALACANT/ALICANTE,2018-11-23,Temperaturas mínimas sin cambios importantes y máximas en ascenso en los litorales .,temperatura
+ALACANT/ALICANTE,2018-11-23,Viento variable flojo tendiendo a lo largo de la mañana a componente oeste moderado con alguna racha fuerte en el interior .,viento
+ALACANT/ALICANTE,2018-12-27,Poco nuboso con intervalos de nubes medias y altas .,nubes
+ALACANT/ALICANTE,2018-12-27,Brumas y bancos de niebla matinales .,humedad
+ALACANT/ALICANTE,2018-12-27,Temperaturas con pocos cambios .,temperatura
+ALACANT/ALICANTE,2018-12-27,Algunas heladas débiles en el interior .,temperatura
+ALACANT/ALICANTE,2018-12-27,Viento variable flojo .,viento
+ALACANT/ALICANTE,2018-12-09,Poco nuboso con algún intervalo de nubes altas .,nubes
+ALACANT/ALICANTE,2018-12-09,Temperaturas en ascenso ;sobre todo las máximas del interior .,temperatura
+ALACANT/ALICANTE,2018-12-09,Viento del oeste flojo .,viento
+ALACANT/ALICANTE,2018-12-15,Intervalos de nubes altas .,nubes
+ALACANT/ALICANTE,2018-12-15,Temperaturas mínimas sin cambios y máximas en ascenso .,temperatura
+ALACANT/ALICANTE,2018-12-15,Viento de componente oeste flojo a moderado .,viento
+ALACANT/ALICANTE,2018-11-26,A primeras horas ;cielo nuboso sin descartar precipitaciones débiles .,nubes-precipitacion
+ALACANT/ALICANTE,2018-11-26,A partir de la mañana tenderá en general a poco nuboso o despejado .,nubes
+ALACANT/ALICANTE,2018-11-26,Temperaturas mínimas en ascenso y máximas en descenso .,temperatura
+ALACANT/ALICANTE,2018-11-26,Viento del oeste y noroeste moderado con intervalos de fuerte y rachas muy fuertes ;sobre todo en el interior .,viento
+ALACANT/ALICANTE,2019-01-07,Predominio de cielo despejado aumentando a intervalos de nubes bajas por la tarde .,nubes
+ALACANT/ALICANTE,2019-01-07,Temperaturas en descenso ;en especial las máximas .,temperatura
+ALACANT/ALICANTE,2019-01-07,Heladas débiles en el interior .,temperatura
+ALACANT/ALICANTE,2019-01-07,Viento variable flojo con predominio del nordeste por la tarde en el litoral .,viento
+ALACANT/ALICANTE,2018-12-29,Cielo entre nuboso y cubierto .,nubes
+ALACANT/ALICANTE,2018-12-29,En el litoral se esperan precipitaciones ;en general débiles ;que podrán ser localmente moderadas en el extremo sur .,precipitacion
+ALACANT/ALICANTE,2018-12-29,Brumas y bancos de niebla matinales en el interior .,humedad
+ALACANT/ALICANTE,2018-12-29,Temperaturas sin cambios importantes .,temperatura
+ALACANT/ALICANTE,2018-12-29,Viento del norte y noreste flojo a moderado .,viento
+ALACANT/ALICANTE,2018-12-07,Predominio de cielo despejado .,nubes
+ALACANT/ALICANTE,2018-12-07,Temperaturas sin cambios o en ligero descenso .,temperatura
+ALACANT/ALICANTE,2018-12-07,Viento de componente oeste flojo con intervalos de moderado .,viento
+ALACANT/ALICANTE,2018-11-28,Intervalos de nubes altas .,nubes
+ALACANT/ALICANTE,2018-11-28,Temperaturas mínimas sin cambios y máximas en ascenso .,temperatura
+ALACANT/ALICANTE,2018-11-28,Viento variable flojo .,viento
+ALACANT/ALICANTE,2018-12-20,Intervalos de nubes medias y altas de madrugada ;tendiendo por la mañana a cielo poco nuboso o despejado .,nubes
+ALACANT/ALICANTE,2018-12-20,Temperaturas con descensos locales .,temperatura
+ALACANT/ALICANTE,2018-12-20,Viento de componente oeste flojo ;con intervalos de moderado por la mañana .,viento
+ALACANT/ALICANTE,2018-12-12,Cielo poco nuboso o despejado aumentando a intervalos de nubes altas por la tarde .,nubes
+ALACANT/ALICANTE,2018-12-12,Temperaturas mínimas en ascenso y máximas sin cambios .,temperatura
+ALACANT/ALICANTE,2018-12-12,Viento de componente oeste flojo con intervalos de moderado en el interior .,viento
+ALACANT/ALICANTE,2018-11-21,Predominio de cielo poco nuboso ;con nubosidad más abundante por la mañana en el interior .,nubes
+ALACANT/ALICANTE,2018-11-21,Temperaturas sin cambios .,temperatura
+ALACANT/ALICANTE,2018-11-21,Viento del oeste y suroeste flojo con intervalos de moderado .,viento
+ALACANT/ALICANTE,2019-01-09,Poco nuboso o despejado .,nubes
+ALACANT/ALICANTE,2019-01-09,Temperaturas sin cambios o en ascenso ;con mínimas al final del día .,temperatura
+ALACANT/ALICANTE,2019-01-09,Heladas débiles en el interior .,temperatura
+ALACANT/ALICANTE,2019-01-09,Viento de componente oeste flojo a moderado .,viento
+ALACANT/ALICANTE,2018-12-25,Cielo poco nuboso con intervalos de nubes altas con aumento de la nubosidad de tipo bajo al final del día en el litoral .,nubes
+ALACANT/ALICANTE,2018-12-25,Temperaturas mínimas con pocos cambios y máximas en descenso .,temperatura
+ALACANT/ALICANTE,2018-12-25,No se descartan heladas débiles en puntos del interior .,temperatura
+ALACANT/ALICANTE,2018-12-25,Viento variable flojo .,viento
+ALACANT/ALICANTE,2018-12-17,Cielo poco nuboso .,nubes
+ALACANT/ALICANTE,2018-12-17,Temperaturas en descenso .,temperatura
+ALACANT/ALICANTE,2018-12-17,Viento de componente oeste flojo a moderado .,viento
+ALACANT/ALICANTE,2018-11-24,Cielo poco nuboso o despejado .,nubes
+ALACANT/ALICANTE,2018-11-24,Temperaturas mínimas en descenso y las máximas sin cambios importantes .,temperatura
+ALACANT/ALICANTE,2018-11-24,Viento del oeste flojo con intervalos de moderado .,viento
+ALACANT/ALICANTE,2018-12-02,Cielo poco nuboso o despejado con intervalos de nubes altas .,nubes
+ALACANT/ALICANTE,2018-12-02,Temperaturas en ascenso ;más acusado en áreas de montaña ;donde las máximas subirán en general entre 4 y 6 grados .,temperatura
+ALACANT/ALICANTE,2018-12-02,Viento de componente oeste flojo ;con intervalos de moderado en el interior .,viento
+ALACANT/ALICANTE,2019-01-06,Cielo despejado .,nubes
+ALACANT/ALICANTE,2019-01-06,Temperaturas en ascenso .,temperatura
+ALACANT/ALICANTE,2019-01-06,Heladas débiles en puntos del interior .,temperatura
+ALACANT/ALICANTE,2019-01-06,Viento de componente oeste al principio tendiendo a variable flojo .,viento
+ALACANT/ALICANTE,2018-12-01,Cielo poco nuboso con intervalos de nubes altas .,nubes
+ALACANT/ALICANTE,2018-12-01,Temperaturas mínimas en descenso y máximas sin cambios .,temperatura
+ALACANT/ALICANTE,2018-12-01,Viento de componente oeste flojo ;con intervalos de moderado en zonas del interior .,viento
+ALACANT/ALICANTE,2018-11-27,Poco nuboso con algunos intervalos de nubes altas .,nubes
+ALACANT/ALICANTE,2018-11-27,Temperaturas mínimas sin cambios o en descenso y máximas en ascenso .,temperatura
+ALACANT/ALICANTE,2018-11-27,Viento de componente oeste flojo ;con intervalos de moderado por la mañana .,viento
+ALACANT/ALICANTE,2018-12-14,A primeras horas ;cielo nuboso sin descartar precipitaciones débiles ; a partir de la mañana se abrirán claros hasta quedar poco nuboso o despejado .,nubes-precipitacion
+ALACANT/ALICANTE,2018-12-14,Temperaturas sin grandes cambios ;salvo ascensos de las máximas en el litoral .,temperatura
+ALACANT/ALICANTE,2018-12-14,Viento del oeste y noroeste moderado a fuerte ;disminuyendo por la tarde a moderado .,viento
+ALACANT/ALICANTE,2019-01-13,Cielo despejado .,nubes
+ALACANT/ALICANTE,2019-01-13,Temperaturas en ascenso .,temperatura
+ALACANT/ALICANTE,2019-01-13,Heladas en el interior ;en general débiles .,temperatura
+ALACANT/ALICANTE,2019-01-13,Viento de componente oeste flojo .,viento
+ALACANT/ALICANTE,2018-12-26,Cielo poco nuboso con intervalos de nubes altas y a primeras horas intervalos de nubes bajas .,nubes
+ALACANT/ALICANTE,2018-12-26,No se descartan bancos de niebla matinales en el interior durante la madrugada y primeras horas de la mañana .,humedad
+ALACANT/ALICANTE,2018-12-26,Temperaturas sin cambios importantes .,temperatura
+ALACANT/ALICANTE,2018-12-26,Viento variable flojo o calmas .,viento
+ALACANT/ALICANTE,2018-12-08,Cielo poco nuboso o despejado ;con algunos intervalos de nubes altas .,nubes
+ALACANT/ALICANTE,2018-12-08,No se descarta algún banco de niebla en el litoral sur .,humedad
+ALACANT/ALICANTE,2018-12-08,Temperaturas mínimas sin cambios o en ligero ascenso ; máximas en descenso en el interior y sin cambios en el litoral .,temperatura
+ALACANT/ALICANTE,2018-12-08,Viento variable flojo .,viento
+ALACANT/ALICANTE,2018-11-22,Intervalos de nubes medias y altas ;aumentando a nuboso de sur a norte ;sin descartar alguna precipitación débil y dispersa .,nubes-precipitacion
+ALACANT/ALICANTE,2018-11-22,Temperaturas mínimas sin cambios y máximas en descenso .,temperatura
+ALACANT/ALICANTE,2018-11-22,Viento del oeste flojo tendiendo a variable .,viento
+ALACANT/ALICANTE,2018-12-11,Intervalos de nubes altas .,nubes
+ALACANT/ALICANTE,2018-12-11,Brumas y bancos de niebla matinales en el interior .,humedad
+ALACANT/ALICANTE,2018-12-11,Temperaturas sin cambios importantes .,temperatura
+ALACANT/ALICANTE,2018-12-11,Viento variable flojo ;tendiendo a componente oeste flojo en el interior y a suroeste moderado en el litoral .,viento
+ALACANT/ALICANTE,2018-12-23,Cielo poco nuboso con intervalos de nubes altas .,nubes
+ALACANT/ALICANTE,2018-12-23,Temperaturas sin cambios importantes .,temperatura
+ALACANT/ALICANTE,2018-12-23,Viento variable flojo .,viento
+ALACANT/ALICANTE,2019-03-30,Intervalos matinales de nubes bajas y por la tarde ;de nubes medias y altas aumentando de sur a norte .,nubes
+ALACANT/ALICANTE,2019-03-30,No se descarta alguna precipitación débil en el extremo sur a últimas horas .,precipitacion
+ALACANT/ALICANTE,2019-03-30,Temperaturas mínimas con ascensos locales y máximas sin cambios .,temperatura
+ALACANT/ALICANTE,2019-03-30,Viento de componente este flojo .,viento
+ALACANT/ALICANTE,2019-01-03,Cielo con intervalos nubosos .,nubes
+ALACANT/ALICANTE,2019-01-03,Temperaturas en descenso ;sobre todo las máximas en el interior .,temperatura
+ALACANT/ALICANTE,2019-01-03,Heladas débiles en el interior .,temperatura
+ALACANT/ALICANTE,2019-01-03,Viento variable flojo ;con intervalos de nordeste moderado en el litoral por la mañana .,viento
+ALACANT/ALICANTE,2018-12-18,Cielo poco nuboso con intervalos de nubes altas ;aumentando al final del día la nubosidad por el oeste a cielo nuboso .,nubes
+ALACANT/ALICANTE,2018-12-18,Temperaturas sin cambios importantes .,temperatura
+ALACANT/ALICANTE,2018-12-18,Viento variable flojo ;con predominio del sur y suroeste flojo en el litoral por la tarde .,viento
+ALACANT/ALICANTE,2018-12-04,Intervalos de nubes altas .,nubes
+ALACANT/ALICANTE,2018-12-04,Temperaturas con pocos cambios .,temperatura
+ALACANT/ALICANTE,2018-12-04,Viento del oeste flojo tendiendo a variable .,viento
+provincia,fecha,frase,clase
+TENERIFE,2018-11-30,Predominio de cielos poco nubosos o despejados .,nubes
+TENERIFE,2018-11-30,Temperaturas con pocos cambios .,temperatura
+TENERIFE,2018-11-30,Viento del nordeste flojo a moderado más intenso en punta noroeste y costa sureste ;con brisas en costas norte y oeste .,viento
+TENERIFE,2018-12-03,Despejado en general ;con algunos intervalos nubosos a primeras horas en el norte .,nubes
+TENERIFE,2018-12-03,Temperaturas máximas en ascenso y mínimas con pocos cambios .,temperatura
+TENERIFE,2018-12-03,Viento del este flojo ;algo más intenso en medianías y zonas altas .,viento
+TENERIFE,2018-11-25,Poco nuboso aumentando a intervalos nubosos por la tarde en el nordeste y suroeste .,nubes
+TENERIFE,2018-11-25,Baja probabilidad de lluvias débiles por la tarde en el nordeste y suroeste .,precipitacion
+TENERIFE,2018-11-25,Temperaturas en ascenso .,temperatura
+TENERIFE,2018-11-25,Viento flojo ;de componente oeste girando a componente norte por la tarde .,viento
+TENERIFE,2018-11-25,En cumbres centrales ;viento del noroeste moderado disminuyendo en la segunda mitad del día .,viento
+TENERIFE,2018-12-16,Poco nuboso o despejado ;salvo algunos intervalos nubosos en el nordeste de madrugada .,nubes
+TENERIFE,2018-12-16,Baja probabilidad de calima ligera .,humedad
+TENERIFE,2018-12-16,Temperaturas sin cambios o en ligero ascenso ;principalmente en costas .,temperatura
+TENERIFE,2018-12-16,Viento del nordeste en costas y de componente este en medianías y zonas altas .,viento
+TENERIFE,2018-12-16,Brisas en costa oeste .,viento
+TENERIFE,2019-01-11,Poco nuboso o despejado con algunos intervalos nubosos en el norte a últimas horas .,nubes
+TENERIFE,2019-01-11,Temperaturas con pocos cambios .,temperatura
+TENERIFE,2019-01-11,Viento de componente este flojo con intervalos de moderado .,viento
+TENERIFE,2019-01-11,En cumbres centrales ;viento del oeste flojo aumentado a suroeste moderado por la tarde .,viento
+TENERIFE,2018-12-24,Intervalos de nubes medias y altas ;tendiendo a poco nuboso durante la tarde .,nubes
+TENERIFE,2018-12-24,Calima .,humedad
+TENERIFE,2018-12-24,Temperaturas con pocos cambios .,temperatura
+TENERIFE,2018-12-24,Viento del sudeste moderado a fuerte ;más intenso y con probables rachas de muy fuerte en cumbres y vertientes nordeste ( incluida el área metropolitana ) y vertientes suroeste y que podrían llegar puntualmente a las costas del nordeste .,viento
+TENERIFE,2018-12-24,Predominio de brisas en costa noroeste .,viento
+TENERIFE,2018-11-20,Intervalos nubosos .,nubes
+TENERIFE,2018-11-20,No se descarta alguna lluvia débil y ocasional en el norte en la primera mitad del día ; en la segunda mitad ;probables lluvias débiles en el norte y débiles a moderadas en zonas de interior sur .,precipitacion
+TENERIFE,2018-11-20,Temperaturas mínimas con pocos cambios y máximas en ligero ascenso .,temperatura
+TENERIFE,2018-11-20,Viento de componente oeste flojo .,viento
+TENERIFE,2018-11-20,En el Teide ;viento del noroeste disminuyendo y girando a componente oeste al final .,viento
+TENERIFE,2018-12-13,En el norte y nordeste intervalos nubosos ;predominando los claros por la tarde .,nubes
+TENERIFE,2018-12-13,En cumbres ;por encima de unos 1400 metros y resto de vertientes ;poco nuboso a despejado .,nubes
+TENERIFE,2018-12-13,Temperaturas con pocos cambios .,temperatura
+TENERIFE,2018-12-13,Viento del nordeste con intervalos de fuerte en vertientes noroeste y sureste ; predominio de las brisas en costas norte y oeste .,viento
+TENERIFE,2019-01-08,Intervalos de nubes medias y altas .,nubes
+TENERIFE,2019-01-08,No descarta la presencia de calima débil en el sur durante la primera mitad del día .,humedad
+TENERIFE,2019-01-08,Temperaturas con pocos cambios o en ligero descenso de las mínimas .,temperatura
+TENERIFE,2019-01-08,Viento de componente este flojo a moderado en costas y del sureste moderado en medianías y zonas altas .,viento
+TENERIFE,2019-01-08,Brisas en costas noroeste .,viento
+TENERIFE,2019-01-08,En altas cumbres centrales ;componente sur flojo a moderado .,viento
+TENERIFE,2018-12-21,Intervalos nubosos en el norte ;por debajo de unos 600 a 700 metros ;predominando los cielos poco nubosos por la tarde .,nubes
+TENERIFE,2018-12-21,Despejado en general en el resto de zonas .,nubes
+TENERIFE,2018-12-21,Presencia de nubosidad alta a última hora del día .,nubes
+TENERIFE,2018-12-21,Temperaturas mínimas sin cambios o en ligero ascenso y máximas con pocos cambios .,temperatura
+TENERIFE,2018-12-21,Viento del nordeste de flojo a moderado ;girando a componente este en medianías y zonas altas ;y siendo más intenso en los extremos sudeste y noroeste .,viento
+TENERIFE,2018-12-21,En el Teide ;viento variable flojo .,viento
+TENERIFE,2018-12-21,Predominio de las brisas en la costa suroeste .,viento
+TENERIFE,2018-11-29,Poco nuboso en general con intervalos de nubes altas .,nubes
+TENERIFE,2018-11-29,En el norte ;intervalos nubosos durante la primera mitad del día y a últimas horas .,nubes
+TENERIFE,2018-11-29,Temperaturas sin cambios o en ligero ascenso .,temperatura
+TENERIFE,2018-11-29,Viento del nordeste flojo a moderado ;con brisas en zonas de costa .,viento
+TENERIFE,2018-11-29,En medianías predominará la componente este .,viento
+TENERIFE,2018-12-28,Intervalos nubosos en el nordeste con apertura de claros en horas centrales del día .,nubes
+TENERIFE,2018-12-28,Poco nuboso o despejado en el resto .,nubes
+TENERIFE,2018-12-28,Temperaturas sin cambios .,temperatura
+TENERIFE,2018-12-28,Viento del nordeste ;algo más intenso puntualmente en el extremo sudeste y con predominio de las brisas en la costa suroeste .,viento
+TENERIFE,2018-12-28,Viento de componente este en medianías y variable flojo en el Teide .,viento
+TENERIFE,2018-12-06,Poco nuboso o despejado con intervalos de nubes altas .,nubes
+TENERIFE,2018-12-06,Calima .,humedad
+TENERIFE,2018-12-06,Temperaturas con pocos cambios .,temperatura
+TENERIFE,2018-12-06,Viento del este en el litoral ;con brisas en costas este y oeste .,viento
+TENERIFE,2018-12-06,En medianías y zonas altas ;sudeste moderado a fuerte .,viento
+TENERIFE,2018-12-06,No se descartan rachas localmente muy fuertes al inicio en medianías comprendidas desde La Orotava hasta Anaga ;puntualmente se podrían dar a nivel de costas .,viento
+TENERIFE,2018-12-05,Poco nuboso o despejado con intervalos de nubes altas .,nubes
+TENERIFE,2018-12-05,Calima .,humedad
+TENERIFE,2018-12-05,Temperaturas mínimas con pocos cambios y máximas en ligero descenso .,temperatura
+TENERIFE,2018-12-05,Viento del este a sureste flojo a moderado ;intensificándose por la tarde .,viento
+TENERIFE,2018-12-05,A últimas horas no se descartan rachas localmente muy fuertes en medianías del nordeste ;desde La Orotava hasta Anaga ;pudiendo llegar puntualmente hasta nivel de costa .,viento
+TENERIFE,2018-12-05,Predominio de las brisas en costa este .,viento
+TENERIFE,2018-12-19,Cielos poco nubosos o despejados ;salvo algunos intervalos de nubes altas durante la primera mitad del día .,nubes
+TENERIFE,2018-12-19,Temperaturas con pocos cambios o en ligero descenso ;principalmente en el área metropolitana y la zona de Anaga .,temperatura
+TENERIFE,2018-12-19,Viento del nordeste de flojo a moderado ;algo más intenso en horas centrales en la vertiente sudeste y en la punta noroeste .,viento
+TENERIFE,2018-12-19,Brisas en la costa oeste .,viento
+TENERIFE,2018-12-22,Poco nuboso a despejado ;con intervalos de altas durante la madrugada y final del día .,nubes
+TENERIFE,2018-12-22,Posibilidad de calima al final del día .,humedad
+TENERIFE,2018-12-22,Temperaturas en ligero ascenso ;más acusado en el norte y suroeste .,temperatura
+TENERIFE,2018-12-22,Viento del nordeste flojo a moderado ;girando a sureste durante la mañana e intensificándose ; con intervalos de fuerte en vertientes nordeste ( incluida área metropolitana ) y suroeste .,viento
+TENERIFE,2018-12-22,Predominio de las brisas en costas este y norte .,viento
+TENERIFE,2018-12-10,Poco nuboso o despejado ;con intervalos de nubes altas .,nubes
+TENERIFE,2018-12-10,Temperaturas con pocos cambios .,temperatura
+TENERIFE,2018-12-10,Viento de componente este flojo a moderado .,viento
+TENERIFE,2018-12-10,En cumbres centrales ;viento flojo del suroeste girando a noroeste al final .,viento
+TENERIFE,2018-12-10,Brisas en costas norte y oeste .,viento
+TENERIFE,2018-11-23,Nuboso tendiendo a intervalos nubosos a partir del mediodía .,nubes
+TENERIFE,2018-11-23,Chubascos ;los cuales no se descarta que a primeras horas puedan ser localmente fuertes e ir acompañados de alguna tormenta aislada y granizo ;preferentemente en vertientes norte y este .,precipitacion
+TENERIFE,2018-11-23,Baja probabilidad de que sean en forma de nieve por encima de los 2000 metros durante la madrugada .,nieve
+TENERIFE,2018-11-23,Las precipitaciones pasarán a ser poco probables ;ocasionales y concentradas en vertientes norte y este a partir del mediodía .,precipitacion
+TENERIFE,2018-11-23,Temperaturas sin cambios o en ligero descenso .,temperatura
+TENERIFE,2018-11-23,Viento del norte flojo a moderado .,viento
+TENERIFE,2018-11-23,En cumbres centrales ;componente oeste flojo de madrugada tendiendo pronto a viento de componente norte con intervalos de fuerte .,viento
+TENERIFE,2018-12-27,Poco nuboso o despejado en general ;salvo algunos intervalos de nubes bajas en el nordeste a última hora de la tarde .,nubes
+TENERIFE,2018-12-27,Temperaturas con pocos cambios o en ligero descenso de las máximas en el nordeste .,temperatura
+TENERIFE,2018-12-27,Viento del nordeste de flojo a moderado ;más intenso en la vertiente sudeste y en el extremo noroeste ;así como en medianías del nordeste ( excluyendo el área metropolitana ) a primeras horas de la mañana .,viento
+TENERIFE,2018-12-27,En medianías ;viento del este y nordeste .,viento
+TENERIFE,2018-12-27,En cumbres ;viento flojo variable .,viento
+TENERIFE,2018-12-27,Predominio de las brisas en la costa suroeste .,viento
+TENERIFE,2018-12-09,Intervalos de nubes bajas en el nordeste ;tendiendo a poco nuboso a partir de mediodía .,nubes
+TENERIFE,2018-12-09,En el resto ;poco nuboso o despejado ;con algún intervalo de nubes medias y altas durante la tarde .,nubes
+TENERIFE,2018-12-09,Temperaturas con pocos cambios ;salvo ligeros descensos en las mínimas y ligeros ascensos en las máximas .,temperatura
+TENERIFE,2018-12-09,Viento flojo a moderado ;del nordeste tendiendo a componente este en costas y del este a sureste en medianías y zonas altas .,viento
+TENERIFE,2018-12-09,Brisas en costas suroeste .,viento
+TENERIFE,2018-12-15,En el norte y nordeste ;intervalos nubosos con amplios claros durante las horas centrales .,nubes
+TENERIFE,2018-12-15,En cumbres y resto de vertientes ;poco nuboso o despejado .,nubes
+TENERIFE,2018-12-15,Temperaturas sin cambios o en ligero ascenso .,temperatura
+TENERIFE,2018-12-15,Viento del nordeste ;con intervalos de fuerte al inicio en extremos noroeste y sudeste .,viento
+TENERIFE,2018-12-15,Predominio de las brisas en costas norte y oeste .,viento
+TENERIFE,2018-11-26,Intervalos nubosos aumentando durante la mañana a nuboso .,nubes
+TENERIFE,2018-11-26,Probabilidad de lluvias débiles en el nordeste y suroeste .,precipitacion
+TENERIFE,2018-11-26,Temperaturas con pocos cambios o en ligero descenso .,temperatura
+TENERIFE,2018-11-26,Viento del nordeste flojo a moderado ;más intenso por la tarde en el sureste .,viento
+TENERIFE,2018-11-26,Brisas en costas norte y suroeste .,viento
+TENERIFE,2019-01-07,Intervalos de nubes medias y altas .,nubes
+TENERIFE,2019-01-07,Probabilidad de calima ;tendiendo a remitir por la tarde .,humedad
+TENERIFE,2019-01-07,Temperaturas con pocos cambios o en ligero descenso de las máximas .,temperatura
+TENERIFE,2019-01-07,Viento de componente este en costas y del sureste en medianías y zonas altas ;con intervalos de fuerte en vertientes nordeste ( área metropolitana ) y suroeste principalmente de madrugada .,viento
+TENERIFE,2019-01-07,Brisas en costa noroeste .,viento
+TENERIFE,2018-12-29,Intervalos nubosos principalmente en el norte y noreste con predominio de cielos poco nubosos en horas centrales del día .,nubes
+TENERIFE,2018-12-29,En el resto ;poco nuboso o despejado .,nubes
+TENERIFE,2018-12-29,Temperaturas con pocos cambios o en ligero descenso .,temperatura
+TENERIFE,2018-12-29,Viento del nordeste ;más intenso puntualmente en el extremo sureste .,viento
+TENERIFE,2018-12-29,Predominio de las brisas en costas orientadas al suroeste .,viento
+TENERIFE,2018-12-29,En el Teide ;viento del nordeste disminuyendo al final del día .,viento
+TENERIFE,2018-12-07,Poco nuboso con intervalos de nubes altas ;tendiendo al final del día a intervalos de nubes bajas en el nordeste .,nubes
+TENERIFE,2018-12-07,Probabilidad de ligera calima durante la primera mitad del día .,humedad
+TENERIFE,2018-12-07,Temperaturas sin cambios o en ligero ascenso de las máximas .,temperatura
+TENERIFE,2018-12-07,Viento del este moderado con intervalos de fuerte en medianías del nordeste donde no se descarta rachas localmente muy fuertes durante la madrugada y primeras horas de la mañana ;pudiendo llegar puntualmente a nivel de costa .,viento
+TENERIFE,2018-12-07,El viento girará a nordeste en costas por la tarde .,viento
+TENERIFE,2018-12-07,En cumbres ;del sur flojo a moderado girando a este .,viento
+TENERIFE,2018-11-28,Predominio de poco nuboso en general ;salvo algunos intervalos de madrugada en el norte y por la tarde en el interior en vertientes orientadas al suroeste .,nubes
+TENERIFE,2018-11-28,Temperaturas máximas en ligero ascenso y mínimas con pocos cambios .,temperatura
+TENERIFE,2018-11-28,Viento flojo del este y nordeste ;algo más intenso en medianías ;y con brisas en zonas de costa .,viento
+TENERIFE,2018-11-28,En el Teide ;viento flojo del sudeste .,viento
+TENERIFE,2018-12-20,Cielos poco nubosos o despejados en general ;salvo algunos intervalos nubosos en zonas bajas del norte al final del día .,nubes
+TENERIFE,2018-12-20,Temperaturas con pocos cambios .,temperatura
+TENERIFE,2018-12-20,Viento del nordeste de flojo a moderado ;girando a componente este en medianías y zonas altas ;y siendo más intenso por la tarde en los extremos sudeste y noroeste .,viento
+TENERIFE,2018-12-20,En el Teide ;viento variable flojo .,viento
+TENERIFE,2018-12-20,Predominio de las brisas en la costa suroeste .,viento
+TENERIFE,2018-12-12,En el norte y nordeste ;nuboso tendiendo a intervalos nubosos por la tarde .,nubes
+TENERIFE,2018-12-12,En el resto de zonas ;poco nuboso o despejado ;salvo al suroeste donde crecerá nubosidad de evolución por la tarde .,nubes
+TENERIFE,2018-12-12,No se descarta alguna lluvia débil y ocasional en medianías del nordeste durante la primera mitad del día .,precipitacion
+TENERIFE,2018-12-12,Temperaturas sin cambios o en ligero descenso .,temperatura
+TENERIFE,2018-12-12,Viento del nordeste ;más intenso en extremos sureste y noroeste .,viento
+TENERIFE,2018-12-12,Brisas en costas norte y suroeste .,viento
+TENERIFE,2018-11-21,Nuboso o cubierto con precipitaciones a partir de media mañana ;con probabilidad de que sean fuertes y sin descartar de que vayan acompañadas de alguna tormenta aislada .,precipitacion
+TENERIFE,2018-11-21,En la vertiente norte y en el área metropolitana pueden ser persistentes durante las horas centrales del día y por la tarde .,viento
+TENERIFE,2018-11-21,En la vertiente sur serán de carácter ocasional .,viento
+TENERIFE,2018-11-21,Temperaturas mínimas en ligero a moderado ascenso ; máximas con pocos cambios .,temperatura
+TENERIFE,2018-11-21,Viento del suroeste flojo a moderado ;que girará a norte al final .,viento
+TENERIFE,2019-01-09,Poco nuboso a despejado ;alternando con intervalos de nubes altas y algún intervalo de bajas en el norte al final .,nubes
+TENERIFE,2019-01-09,Temperaturas con pocos cambios .,temperatura
+TENERIFE,2019-01-09,Viento del nordeste a este flojo a moderado ;mas intenso en vertiente sur ;predominando las brisas en costas norte y oeste .,viento
+TENERIFE,2018-12-25,Poco nuboso o despejado salvo algún intervalo de nubes altas de madrugada .,nubes
+TENERIFE,2018-12-25,Probable calima .,humedad
+TENERIFE,2018-12-25,Temperaturas mínimas en ligero descenso y máximas con pocos cambios .,temperatura
+TENERIFE,2018-12-25,Viento del sudeste ;algo más intenso y del sur en medianías hasta mediodía .,viento
+TENERIFE,2018-12-25,Por la tarde ;viento flojo variable .,viento
+TENERIFE,2018-12-25,En el Teide ;viento del sur y suroeste de moderado a fuerte ;debilitándose a lo largo del día .,viento
+TENERIFE,2018-12-25,Predominio de las brisas en las costas norte y noroeste .,viento
+TENERIFE,2018-12-17,Poco nuboso o despejado .,nubes
+TENERIFE,2018-12-17,Baja probabilidad de calima ligera en la primera mitad del día .,humedad
+TENERIFE,2018-12-17,Temperaturas sin cambios o en ligero descenso .,temperatura
+TENERIFE,2018-12-17,Viento de componente este en costas y del sureste en medianías y zonas altas ;moderado disminuyendo a flojo al final .,viento
+TENERIFE,2018-12-17,Brisas en costa oeste .,viento
+TENERIFE,2018-11-24,Intervalos nubosos durante la madrugada ;no descartándose algún chubasco aislado en el sureste durante la madrugada ;tendiendo a poco nuboso y sin precipitaciones .,nubes
+TENERIFE,2018-11-24,Temperaturas en ascenso .,temperatura
+TENERIFE,2018-11-24,Viento en general flojo ;de componente norte durante la madrugada y girando a componente oeste durante la mañana ;predominando las brisas en costas .,viento
+TENERIFE,2018-11-24,En cumbres centrales ;viento del noroeste con intervalos de fuerte .,viento
+TENERIFE,2018-12-02,Poco nuboso o despejado en general ;con algunos intervalos nubosos por la mañana en el norte y noreste .,nubes
+TENERIFE,2018-12-02,Temperaturas con pocos cambios .,temperatura
+TENERIFE,2018-12-02,Viento del nordeste de flojo a moderado ;algo más intenso en el extremo sudeste durante la mañana ;y girando a componente este flojo por la tarde .,viento
+TENERIFE,2019-01-06,Intervalos de nubes altas ;con predominio de los cielos despejados en la primera mitad del día .,nubes
+TENERIFE,2019-01-06,Probabilidad de calima .,humedad
+TENERIFE,2019-01-06,Temperaturas con pocos cambios ;salvo ligeros ascensos en las mínimas y ligeros descensos en las máximas .,temperatura
+TENERIFE,2019-01-06,Viento del este a sureste moderado con intervalos de fuerte en vertientes nordeste ( área metropolitana ) y suroeste .,viento
+TENERIFE,2019-01-06,Brisas en costa noroeste .,viento
+TENERIFE,2018-12-01,Intervalos nubosos en el norte y este ;predominando los cielos poco nubosos en horas centrales .,nubes
+TENERIFE,2018-12-01,En el resto ;poco nuboso o despejado .,nubes
+TENERIFE,2018-12-01,Baja probabilidad de lloviznas en el nordeste ;sobre todo a primeras y últimas horas .,precipitacion
+TENERIFE,2018-12-01,Temperaturas con pocos cambios o en ligero descenso .,temperatura
+TENERIFE,2018-12-01,Viento del nordeste de flojo a moderado ;más intenso en la costa sudeste durante la segunda mitad del día .,viento
+TENERIFE,2018-12-01,En el Teide ;viento flojo de componente norte girando a este al final .,viento
+TENERIFE,2018-12-01,Brisas en la costa suroeste .,viento
+TENERIFE,2018-11-27,Intervalos nubosos aumentando durante la mañana a nuboso y abriéndose claros a últimas horas .,nubes
+TENERIFE,2018-11-27,Baja probabilidad de lluvias débiles y dispersas en el interior en horas centrales .,precipitacion
+TENERIFE,2018-11-27,Temperaturas sin cambios .,temperatura
+TENERIFE,2018-11-27,Viento del nordeste flojo con intervalos de moderado durante la segunda mitad del día en el norte y sudeste .,viento
+TENERIFE,2018-11-27,En el Teide ;viento flojo del noroeste cambiando a sudeste al final del día .,viento
+TENERIFE,2018-11-27,Brisas en costas suroeste .,viento
+TENERIFE,2018-12-14,En el norte y nordeste ;intervalos nubosos que tenderán a cielos poco nubosos a partir de mediodía .,nubes
+TENERIFE,2018-12-14,En el resto de zonas ;poco nuboso o despejado .,nubes
+TENERIFE,2018-12-14,Baja probabilidad de lluvias débiles y ocasionales durante la madrugada en el nordeste ;más probables en medianías .,precipitacion
+TENERIFE,2018-12-14,Temperaturas con pocos cambios .,temperatura
+TENERIFE,2018-12-14,Viento del nordeste flojo a moderado ;con intervalos de fuerte en extremos noroeste y sureste .,viento
+TENERIFE,2018-12-14,Predominio de las brisas en costas norte y oeste .,viento
+TENERIFE,2019-01-13,Despejado .,nubes
+TENERIFE,2019-01-13,Calima ;principalmente en la segunda mitad del día .,humedad
+TENERIFE,2019-01-13,Temperaturas en ligero ascenso .,temperatura
+TENERIFE,2019-01-13,Viento del este a sureste moderado con intervalos de fuerte en vertientes suroeste y nordeste ( área metropolitana ) .,viento
+TENERIFE,2019-01-13,En cumbres centrales ;viento de componente sur .,viento
+TENERIFE,2019-01-13,Brisas en costa norte .,viento
+TENERIFE,2018-12-26,Poco nuboso o despejado en general salvo algunos intervalos de nubes altas en las horas centrales del día .,nubes
+TENERIFE,2018-12-26,Temperaturas con pocos cambios .,temperatura
+TENERIFE,2018-12-26,Viento de componente este de flojo a moderado .,viento
+TENERIFE,2018-12-26,En el Teide ;viento de componente sur de flojo a moderado .,viento
+TENERIFE,2018-12-26,Predominio de las brisas en zonas de costa .,viento
+TENERIFE,2018-12-08,Intervalos de nubes bajas en el nordeste .,nubes
+TENERIFE,2018-12-08,En el resto ;poco nuboso o despejado .,nubes
+TENERIFE,2018-12-08,Temperaturas mínimas sin cambios o en ligero descenso y las máximas en ligero descenso .,temperatura
+TENERIFE,2018-12-08,Viento flojo a moderado ;del nordeste en costas y del este a sudeste en medianías y zonas altas .,viento
+TENERIFE,2018-12-08,Predomino de brisas en la vertiente oeste de la isla .,viento
+TENERIFE,2018-11-22,Nuboso o cubierto con apertura de algún claro al sur por la tarde .,nubes
+TENERIFE,2018-11-22,Precipitaciones que al inicio serán ocasionales .,precipitacion
+TENERIFE,2018-11-22,A partir de media mañana serán más probables y frecuentes ;y existe la probabilidad de que sean localmente fuertes ;en especial en vertientes norte y este donde podrán ser persistentes .,viento
+TENERIFE,2018-11-22,No se descarta que vayan acompañadas de alguna tormenta aislada y granizo .,precipitacion
+TENERIFE,2018-11-22,La cota de nieve irá descendiendo desde los 2700 metros hasta los 2000 metros al final del día .,nieve
+TENERIFE,2018-11-22,Temperaturas en ligero a moderado descenso ;en especial las máximas .,temperatura
+TENERIFE,2018-11-22,Viento de componente norte flojo ;aumentando a moderado por la tarde .,viento
+TENERIFE,2018-11-22,En cumbres centrales ;componente oeste con intervalos de fuerte .,viento
+TENERIFE,2018-12-11,En el norte ;intervalos nubosos .,nubes
+TENERIFE,2018-12-11,En el resto de zonas ;poco nuboso o despejado .,nubes
+TENERIFE,2018-12-11,Baja probabilidad de alguna lluvia débil y ocasional en el norte al final .,precipitacion
+TENERIFE,2018-12-11,Temperaturas mínimas sin cambios y máximas en ligero descenso ;más acusado en medianías del norte .,temperatura
+TENERIFE,2018-12-11,Viento del nordeste flojo a moderado ;con intervalos de fuerte en el sureste principalmente por la tarde .,viento
+TENERIFE,2018-12-11,Brisas en costas suroeste .,viento
+TENERIFE,2018-12-11,En cumbres centrales ;viento de componente norte moderado .,viento
+TENERIFE,2018-12-23,Intervalos de nubes altas ;más compactas en la segunda mitad del día .,nubes
+TENERIFE,2018-12-23,Calima .,humedad
+TENERIFE,2018-12-23,Temperaturas mínimas en ascenso y máximas en descenso .,temperatura
+TENERIFE,2018-12-23,Viento del sureste con intervalos de fuerte en cumbres y vertientes nordeste ( incluida el área metropolitana ) y vertientes suroeste ; en medianías del nordeste las rachas podrían llegar puntualmente a costas .,viento
+TENERIFE,2018-12-23,Predominio de las brisas en costas sureste y noroeste .,viento
+TENERIFE,2019-03-30,Nuboso o cubierto en la primera mitad del día con probabilidad de alguna tormenta aislada ;con probables chubascos fuertes ;principalmente en el norte y área metropolitana ;tendiendo a intervalos nubosos al final del día .,precipitacion
+TENERIFE,2019-03-30,Probables nevadas en cumbres centrales .,viento
+TENERIFE,2019-03-30,Temperaturas con pocos cambios .,temperatura
+TENERIFE,2019-03-30,Viento de componente norte flojo ;con brisas en zonas de costa .,viento
+TENERIFE,2019-01-03,Poco nuboso o despejado en general ;con intervalos de nubes altas por la tarde .,nubes
+TENERIFE,2019-01-03,Intervalos nubosos en zonas bajas del este a primeras y últimas horas .,nubes
+TENERIFE,2019-01-03,Temperaturas sin cambios o en ligero descenso .,temperatura
+TENERIFE,2019-01-03,Viento de componente este flojo a moderado ;más intenso en el extremo sur y nordeste ; en cumbres centrales ;viento de componente norte .,viento
+TENERIFE,2019-01-03,Brisas en costas noroeste y oeste .,viento
+TENERIFE,2018-12-18,Despejado .,nubes
+TENERIFE,2018-12-18,Probabilidad de calima ligera en la primera mitad del día .,humedad
+TENERIFE,2018-12-18,Temperaturas con pocos cambios .,temperatura
+TENERIFE,2018-12-18,Viento variable flojo tendiendo a nordeste flojo por la tarde .,viento
+TENERIFE,2018-12-18,Brisas en costa oeste .,viento
+TENERIFE,2018-12-04,Despejado en general con intervalos de nubes altas .,nubes
+TENERIFE,2018-12-04,Probabilidad de entrada de calima leve por la tarde .,humedad
+TENERIFE,2018-12-04,Temperaturas mínimas en ascenso y máximas con pocos cambios en costas y en descenso en cumbres .,temperatura
+TENERIFE,2018-12-04,Viento del este a sureste flojo a moderado ;algo más intenso en vertientes oeste ;nordeste y cumbres centrales ; predominio de las brisas en costas este y norte .,viento
+provincia,fecha,frase,clase
+MADRID,2018-11-30,Nuboso al principio sin descartar alguna precipitación en el este ;quedando de madrugada en la Sierra intervalos de nubosidad baja con probables brumas o bancos de niebla matinales y poco nuboso en el resto ;tendiendo por la tarde a despejado en toda la comunidad .,nubes-precipitacion
+MADRID,2018-11-30,Temperaturas en descenso en la Sierra ; en el resto ;mínimas en ascenso y máximas sin cambios o en descenso ; las mínimas se alcanzarán al final del día .,temperatura
+MADRID,2018-11-30,Heladas débiles en la Sierra ;más intensas en cotas altas .,temperatura
+MADRID,2018-11-30,Viento flojo del oeste y noroeste .,viento
+MADRID,2018-12-03,En la Sierra ;poco nuboso con intervalos de nubes altas .,nubes
+MADRID,2018-12-03,En el resto ;nuboso de nubes bajas con brumas y bancos de niebla matinales tendiendo a poco nuboso con intervalos de nubes altas en la segunda mitad del día .,nubes
+MADRID,2018-12-03,Temperaturas mínimas sin cambios o en ligero ascenso y máximas sin cambios en la Sierra y en descenso en el resto .,temperatura
+MADRID,2018-12-03,Vientos flojos variables tendiendo al final a nordeste .,viento
+MADRID,2018-11-25,Nuboso o cubierto con lluvias débiles y chubascos ocasionales ;más probables en la Sierra y en el sur .,precipitacion
+MADRID,2018-11-25,Cota de nieve por encima de 1800 metros .,nieve
+MADRID,2018-11-25,Temperaturas en aumento siendo más acusado el de las mínimas .,temperatura
+MADRID,2018-11-25,Viento del suroeste flojo con intervalos más intensos en las horas centrales .,viento
+MADRID,2018-12-16,Nuboso o cubierto ;con lluvias y chubascos hasta el mediodía ;disminuyendo después la nubosidad a intervalos .,precipitacion
+MADRID,2018-12-16,Las precipitaciones serán en forma de nieve en el entorno de Navacerrada en torno a 1800 a 1200 metros ;disminuyendo la cota a 1300 - 1600 metros .,nieve
+MADRID,2018-12-16,Temperaturas en aumento ;excepto las máximas en las cotas más altas de la Sierra que disminuirán ;con mínimas al final del día .,temperatura
+MADRID,2018-12-16,Heladas débiles y dispersas en la Sierra norte .,temperatura
+MADRID,2018-12-16,Viento del suroeste flojo ;girando a oeste por la tarde en el extremo sur de Comunidad y con intervalos de noroeste fuerte en zonas altas de la Sierra donde no se descarta alguna racha muy fuerte .,viento
+MADRID,2019-01-11,Poco nuboso o despejado .,nubes
+MADRID,2019-01-11,Temperaturas sin cambios o en ligero descenso .,temperatura
+MADRID,2019-01-11,Heladas generalizadas ;más intensas en zonas altas de la Sierra .,temperatura
+MADRID,2019-01-11,Viento flojo del norte y noreste .,viento
+MADRID,2018-12-24,Intervalos de nubes bajas a primera horas en el centro y sur con brumas y bancos de niebla matinales ;que serán más densas y persistentes durante la mañana en el valle del Tajo ;tendiendo a partir de las horas centrales del día a poco nuboso ; en el área de la Sierra ;poco nuboso con intervalos de nubes altas .,nubes
+MADRID,2018-12-24,Temperaturas mínimas en descenso en el sur y sin cambios en el norte ; máximas en aumento .,temperatura
+MADRID,2018-12-24,Viento flojo variable .,viento
+MADRID,2018-12-24,Viento flojo variable o en calma .,viento
+MADRID,2018-11-20,Predominio de cielos nubosos ;abriéndose claros durante la tarde .,nubes
+MADRID,2018-11-20,Precipitaciones generalizadas en la primera mitad del día ;más intensas en la Sierra ;tendiendo a ocasionales por la tarde .,precipitacion
+MADRID,2018-11-20,Cota de nieve entre 1600 y 1800 metros bajando por la tarde hasta 1400 metros .,nieve
+MADRID,2018-11-20,Brumas más probables en el suroeste .,humedad
+MADRID,2018-11-20,Temperaturas que se mantienen con cambios ligeros ;sólo con descensos locales .,temperatura
+MADRID,2018-11-20,Viento del suroeste flojo arreciando durante las horas centrales .,viento
+MADRID,2018-12-13,Cubierto con lluvias y chubascos ;tendiendo a nuboso a partir de mediodía y remitiendo las precipitaciones .,precipitacion
+MADRID,2018-12-13,Cota de nieve en torno a 1100 metros a partir de la mañana .,nieve
+MADRID,2018-12-13,Probables nieblas en zonas altas y medias de la sierra .,humedad
+MADRID,2018-12-13,Temperaturas mínimas en ligero ascenso algo más acusado en el centro de la comunidad y máximas en descenso en la Sierra y con pocos cambios en el resto .,temperatura
+MADRID,2018-12-13,Las mínimas se alcanzarán al final del día .,temperatura
+MADRID,2018-12-13,Viento de componente oeste con rachas muy fuertes en puntos altos de la Sierra .,viento
+MADRID,2019-01-08,Predominio de cielos despejados aumentando la nubosidad alta durante la tarde .,nubes
+MADRID,2019-01-08,Temperaturas mínimas en descenso en el valle del Tajo y con pocos cambios en el resto .,temperatura
+MADRID,2019-01-08,Temperaturas máximas en descenso ;menos acusado en la Sierra .,temperatura
+MADRID,2019-01-08,Heladas débiles generalizadas ;menos probables en el oeste de la Sierra y más intensas en los valles del Lozoya ;del Tajo y del Henares .,temperatura
+MADRID,2019-01-08,Vientos flojos variables tendiendo a componente norte por la tarde .,viento
+MADRID,2018-12-21,Predominio de intervalos nubosos de tipo bajo ;aunque a primeras horas estará nuboso y durante el día con tendencia a irse abriendo claros ; en zonas altas de la Sierra la nubosidad será escasa .,nubes
+MADRID,2018-12-21,Probables brumas y bancos de niebla que podrían ser persistentes por la mañana en gran parte de la comunidad .,humedad
+MADRID,2018-12-21,Temperaturas sin cambios importantes ;salvo un ligero descenso de las máximas ;en general ;sin embargo en la Sierra las máximas suben .,temperatura
+MADRID,2018-12-21,Heladas débiles en cotas altas de la Sierra .,temperatura
+MADRID,2018-12-21,Viento flojo variable .,viento
+MADRID,2018-11-29,Poco nuboso o despejado con intervalos de nubes altas aumentando a cubierto por la tarde ;con lluvias débiles y chubascos de oeste a este ;más intensos en la Sierra .,nubes
+MADRID,2018-11-29,Temperaturas mínimas con pocos cambios ; máximas en descenso en la Sierra y sin cambios en el resto .,temperatura
+MADRID,2018-11-29,Heladas débiles y dispersas en el sureste .,temperatura
+MADRID,2018-11-29,Viento flojo del este y nordeste rolando por la tarde a suroeste .,viento
+MADRID,2018-12-28,Poco nuboso o despejado con nubes bajas y bancos de niebla matinales en las vegas del Tajo y Tajuña .,nubes
+MADRID,2018-12-28,Temperaturas sin cambios significativos ;salvo las máximas en la Sierra donde descenderán ligeramente .,temperatura
+MADRID,2018-12-28,Viento flojo variable predominando el nordeste a partir del mediodía .,viento
+MADRID,2018-12-06,Predominio de cielo despejado o con algún intervalo de nubes altas ;con probables brumas ;bancos de niebla y estratos bajos matinales en los valles del sureste y extremo sur .,nubes
+MADRID,2018-12-06,Temperaturas con pocos cambios predominando los descensos .,temperatura
+MADRID,2018-12-06,Vientos flojos variables .,viento
+MADRID,2018-12-05,Predominio de poco nuboso con algún intervalo de nubes altas ;con probables brumas ;bancos de niebla y estratos bajos matinales principalmente en los valles del Tajo ;Tajuña y Jarama .,nubes
+MADRID,2018-12-05,Temperaturas en ligero ascenso .,temperatura
+MADRID,2018-12-05,Viento flojo variable,viento
+MADRID,2018-12-19,Nuboso o cubierto con lluvias débiles o chubascos de madrugada ;más probables e intensas en el sureste y Somosierra ;y con probables brumas ;disminuyendo por la mañana a poco nuboso con algunos intervalos ; por la tarde los intervalos serán más abundantes en la Sierra y ;en el resto de la comunidad ;serán de nubes altas .,precipitacion
+MADRID,2018-12-19,Cota de nieve en torno a 1400 - 1600 metros .,nieve
+MADRID,2018-12-19,Temperaturas mínimas sin cambios en la Sierra y en ascenso en el resto ;alcanzándose al final del día ;salvo en la Sierra ; máximas en ascenso en el área de la Sierra y sin cambios en el resto .,temperatura
+MADRID,2018-12-19,Heladas débiles en el área de la Sierra .,temperatura
+MADRID,2018-12-19,Vientos flojos del oeste y suroeste .,viento
+MADRID,2018-12-22,Intervalos de nubes bajas por la mañana ;tendiendo a abrirse claros en las horas centrales ;quedando por la tarde cielos poco nuboso con intervalos de nubes altas .,nubes
+MADRID,2018-12-22,Nieblas matinales que podrán ser localmente persistentes .,humedad
+MADRID,2018-12-22,Temperaturas en ligero aumento en la Sierra y con pocos cambios en el resto .,temperatura
+MADRID,2018-12-22,Viento flojo variable .,viento
+MADRID,2018-12-10,Poco nuboso con intervalos de nubes altas desde el mediodía sin descartar brumas y bancos de nieblas matinales en el sur y sureste de la Comunidad .,nubes
+MADRID,2018-12-10,Temperaturas con pocos cambios o con descensos locales de las máximas .,temperatura
+MADRID,2018-12-10,No se descarta alguna helada débil y aislada .,precipitacion
+MADRID,2018-12-10,Vientos flojos variables predominando la componente norte por la mañana .,viento
+MADRID,2018-11-23,Muy nuboso o cubierto tendiendo a poco nuboso por la mañana .,nubes
+MADRID,2018-11-23,Lluvias y chubascos durante la primera mitad del día ;con cotas de nieve de 1600 - 1800 metros disminuyendo de madrugada a 1400 - 1600 metros .,nieve
+MADRID,2018-11-23,Probables brumas y bancos de niebla matinales .,humedad
+MADRID,2018-11-23,Temperaturas mínimas en ligero descenso ;máximas sin cambios significativos .,temperatura
+MADRID,2018-11-23,Heladas débiles en la Sierra .,temperatura
+MADRID,2018-11-23,Viento flojo del suroeste .,viento
+MADRID,2018-12-27,Intervalos de nubes medias y altas durante la mañana ;y poco nuboso o despejado el resto del día ;con formación nocturna en las vegas de Tajo y Tajuña de estratos bajos y bancos de niebla que se disiparán durante la mañana .,nubes
+MADRID,2018-12-27,Temperaturas con pocos cambios .,temperatura
+MADRID,2018-12-27,Heladas débiles localmente en zonas bajas .,temperatura
+MADRID,2018-12-27,Viento flojo variable o en calma .,viento
+MADRID,2018-12-09,Poco nuboso o despejado con intervalos de nubes altas y nubes bajas ;brumas y bancos de niebla matinales en el sur y sureste de la Comunidad .,nubes
+MADRID,2018-12-09,Temperaturas mínimas en descenso .,temperatura
+MADRID,2018-12-09,Temperaturas máximas en aumento .,temperatura
+MADRID,2018-12-09,Vientos flojos variables .,viento
+MADRID,2018-12-15,Poco nuboso con nubes altas ;aumentando a nuboso o cubierto a partir del mediodía ;con probabilidad baja de lluvias débiles en la sierra al final del día .,nubes
+MADRID,2018-12-15,Temperaturas en ascenso en la Sierra ;notable en las máximas ; en el resto ;mínimas en ligero descenso y máximas con pocos cambios .,temperatura
+MADRID,2018-12-15,Heladas débiles en la mitad oriental .,temperatura
+MADRID,2018-12-15,Vientos flojos ;de dirección variable tendiendo a suroeste .,viento
+MADRID,2018-11-26,Nuboso al principio ;con precipitaciones débiles en la Sierra y en el extremo este ;tendiendo por la mañana a intervalos nubosos y por la tarde a poco nuboso o despejado .,nubes
+MADRID,2018-11-26,Lluvias débiles y chubascos ocasionales de madrugada .,precipitacion
+MADRID,2018-11-26,Cota de nieve en torno a 1400 - 1600 metros descendiendo hasta 1200 - 1400 metros .,nieve
+MADRID,2018-11-26,Temperaturas en descenso con mínimas que se darán al final del día .,temperatura
+MADRID,2018-11-26,Heladas débiles en zonas de montaña .,temperatura
+MADRID,2018-11-26,Viento del suroeste flojo arreciando por la mañana a viento del noroeste con probables rachas muy fuertes en la Sierra .,viento
+MADRID,2019-01-07,Despejado .,nubes
+MADRID,2019-01-07,Temperaturas mínimas sin cambios o en ligero aumento y máximas sin cambios .,temperatura
+MADRID,2019-01-07,Heladas débiles generalizadas que serán más acusadas en los valles .,temperatura
+MADRID,2019-01-07,Viento de norte y nordeste flojo .,viento
+MADRID,2018-12-29,Poco nuboso o despejado ;salvo intervalos de nubes bajas al principio en zonas altas de la Sierra .,nubes
+MADRID,2018-12-29,No se descartan brumas matinales en las vegas del sur .,humedad
+MADRID,2018-12-29,Heladas débiles en la Sierra ;siendo localmente más intensas en zonas altas .,temperatura
+MADRID,2018-12-29,Temperaturas mínimas sin cambios en la Sierra y en ascenso en el resto ; máximas sin cambios significativos .,temperatura
+MADRID,2018-12-29,Viento flojo del nordeste .,viento
+MADRID,2018-12-07,Despejado con probables estratos bajos ;brumas y bancos de niebla matinales en los valles del extremo sur ;e intervalos de nubes altas a partir de la tarde .,nubes
+MADRID,2018-12-07,Temperaturas con pocos cambios en la Sierra y en descenso en el resto .,temperatura
+MADRID,2018-12-07,Heladas débiles en la mitad este y valles del sur .,temperatura
+MADRID,2018-12-07,Vientos flojos variables .,viento
+MADRID,2018-11-28,Poco nuboso con intervalos de nubes altas .,nubes
+MADRID,2018-11-28,No se descartan brumas y bancos de niebla matinales en los valles del sur de la comunidad .,humedad
+MADRID,2018-11-28,Temperaturas en ascenso en la Sierra y ;en el resto ;en ligero descenso las mínimas y sin cambios las máximas .,temperatura
+MADRID,2018-11-28,Viento flojo variable tendiendo por la tarde a este y nordeste .,viento
+MADRID,2018-12-20,Nuboso o cubierto ;tendiendo por la tarde a intervalos nubosos .,nubes
+MADRID,2018-12-20,Probables precipitaciones débiles en la Sierra ;al principio .,precipitacion
+MADRID,2018-12-20,Cota de nieve 1400 - 1500 metros .,nieve
+MADRID,2018-12-20,Brumas y bancos de niebla matinales ;menos probables en la Sierra .,humedad
+MADRID,2018-12-20,Temperaturas sin cambios importantes .,temperatura
+MADRID,2018-12-20,Heladas débiles en cotas altas de la Sierra .,temperatura
+MADRID,2018-12-20,Viento flojo con predominio de la componente oeste ;tendiendo a variable .,viento
+MADRID,2018-12-12,Poco nuboso al principio ;salvo intervalos de nubes bajas con probables bancos de niebla y brumas matinales en el sudeste ;aumentando a cubierto .,nubes
+MADRID,2018-12-12,No se descartan lluvias débiles al final .,precipitacion
+MADRID,2018-12-12,Temperaturas mínimas en ligero descenso en la Sierra y en ligero ascenso en el resto ;y máximas en descenso .,temperatura
+MADRID,2018-12-12,Viento flojo variable tendiendo por la tarde a suroeste .,viento
+MADRID,2018-11-21,Nuboso o cubierto tendiendo a poco nuboso por la tarde .,nubes
+MADRID,2018-11-21,Probables chubascos dispersos ;cesando por la tarde .,precipitacion
+MADRID,2018-11-21,Cota de nieve en torno a los 1400 - 1600 metros .,nieve
+MADRID,2018-11-21,Brumas en la Sierra .,humedad
+MADRID,2018-11-21,Temperaturas mínimas en ligero a moderado descenso y máximas sin cambios .,temperatura
+MADRID,2018-11-21,Viento del suroeste flojo con intervalos más intensos .,viento
+MADRID,2019-01-09,Intervalos de nubes bajas tendiendo a poco nuboso o despejado .,nubes
+MADRID,2019-01-09,No se descartan brumas y banco de niebla matinales .,humedad
+MADRID,2019-01-09,Temperaturas mínimas en ligero ascenso en el este y con pocos cambios en el resto salvo en el norte de la zona de la Sierra donde descenderán ligeramente ;y máximas en descenso en la Sierra y con pocos cambios en el resto .,temperatura
+MADRID,2019-01-09,Viento flojo de componente norte ;soplando con más intensidad por la tarde y en zonas altas .,viento
+MADRID,2018-12-25,Poco nuboso o despejado con intervalos de nubes altas .,nubes
+MADRID,2018-12-25,Temperaturas mínimas en aumento ;excepto en el suroeste de la Comunidad donde se mantendrán con pocos cambios .,temperatura
+MADRID,2018-12-25,Temperaturas máximas sin cambios significativos ;excepto en el Valle del Tajo donde aumentarán .,temperatura
+MADRID,2018-12-25,Viento flojo variable ;predominando la componente norte .,viento
+MADRID,2018-12-17,Al principio ;nuboso o intervalos nubosos de tipo bajo en la Sierra y en el sureste de la Comunidad ;con probables brumas matinales y algún banco de niebla ;tendiendo por la tarde a cubrirse los cielos de nubes altas en toda la Comunidad .,nubes
+MADRID,2018-12-17,Temperaturas en descenso .,temperatura
+MADRID,2018-12-17,Heladas débiles generalizadas .,temperatura
+MADRID,2018-12-17,Viento flojo de dirección variable .,viento
+MADRID,2018-11-24,En la Sierra ;nuboso sin descartar lluvias débiles al final del día .,nubes
+MADRID,2018-11-24,En el resto ;intervalos nubosos predominando los cielos nubosos durante las horas centrales .,nubes
+MADRID,2018-11-24,No se descartan brumas y bancos de niebla matinales .,humedad
+MADRID,2018-11-24,Temperaturas en ligero descenso ;con heladas débiles en cotas altas de la Sierra .,temperatura
+MADRID,2018-11-24,Viento flojo variable tendiendo a suroeste .,viento
+MADRID,2018-12-02,Intervalos de nubes altas ;aunque también se esperan nubes bajas al principio y al final del día ;salvo en cotas altas de la Sierra ;que irán acompañadas de brumas y bancos de niebla en el centro y sur de la Comunidad .,nubes
+MADRID,2018-12-02,Temperaturas mínimas en aumento y máximas que suben en zonas altas y se mantienen sin cambios o en ligero descenso en las zonas afectadas con nieblas .,temperatura
+MADRID,2018-12-02,Vientos flojos variables .,viento
+MADRID,2019-01-06,Predominio de cielos despejados .,nubes
+MADRID,2019-01-06,Temperaturas mínimas con cambios ligeros .,temperatura
+MADRID,2019-01-06,Temperaturas máximas en descenso en la Sierra y predominando los aumentos en el resto de la Comunidad .,temperatura
+MADRID,2019-01-06,Heladas débiles generalizadas ;menos probables en la Sierra .,temperatura
+MADRID,2019-01-06,Vientos flojos variables predominando la componente norte .,viento
+MADRID,2018-12-01,Poco nuboso o despejado con intervalos de nubes medias y altas ;más frecuentes por la tarde .,nubes
+MADRID,2018-12-01,No se descarta alguna bruma o banco de niebla en el valle del Tajo o de sus tributarios .,humedad
+MADRID,2018-12-01,Temperaturas mínimas en descenso ;menos acusado en la Sierra .,temperatura
+MADRID,2018-12-01,Temperaturas máximas en aumento en la Sierra y con pocos cambios en el resto .,temperatura
+MADRID,2018-12-01,Heladas débiles en amplias zonas del centro y norte de la provincia ;más acusadas en zonas altas de la Sierra .,temperatura
+MADRID,2018-12-01,Vientos flojos variables tendiendo a suroeste .,viento
+MADRID,2018-11-27,Intervalos de nubes altas .,nubes
+MADRID,2018-11-27,No se descartan brumas y algún banco de niebla matinal en los valles del sur de la comunidad .,humedad
+MADRID,2018-11-27,Temperaturas mínimas en descenso y máximas con pocos cambios ;salvo en la Sierra que ascenderán ligeramente .,temperatura
+MADRID,2018-11-27,Viento flojo variable .,viento
+MADRID,2018-12-14,Nuboso tendiendo a intervalos nubosos y a poco nuboso al final siendo más persistente la nubosidad en la sierra ;donde son probables las nieblas .,nubes
+MADRID,2018-12-14,Temperaturas mínimas en descenso salvo en la Sierra ; máximas en descenso en la Sierra y sin cambios en el resto .,temperatura
+MADRID,2018-12-14,Heladas débiles en zonas altas .,temperatura
+MADRID,2018-12-14,Viento del oeste y noroeste con rachas muy fuertes en la Sierra durante la madrugada .,viento
+MADRID,2019-01-13,En la Sierra ;nuboso o con intervalos de nubes bajas que tienden a disminuir por la tarde ; en el resto poco nuboso o despejado .,nubes
+MADRID,2019-01-13,Temperaturas sin cambios o en ligero aumento .,temperatura
+MADRID,2019-01-13,Heladas matinales débiles generalizadas .,temperatura
+MADRID,2019-01-13,Vientos del norte ;siendo más intensos en la Sierra y flojos en el resto .,viento
+MADRID,2018-12-26,Intervalos de nubes medias y altas ;tendiendo a poco nuboso por la tarde .,nubes
+MADRID,2018-12-26,Probables brumas ;estratos bajos y bancos de niebla matinales en la vega del Tajo .,humedad
+MADRID,2018-12-26,Temperaturas mínimas sin cambios significativos ; máximas en descenso .,temperatura
+MADRID,2018-12-26,Viento flojo variable o en calma .,viento
+MADRID,2018-12-08,Poco nuboso con intervalos de nubes altas y con brumas y bancos matinales de niebla sobre todo en el sur y sureste .,nubes
+MADRID,2018-12-08,Temperaturas mínimas en ligero aumento y máximas en ligero descenso en la Sierra y sin cambios en el resto .,temperatura
+MADRID,2018-12-08,Vientos flojos variables .,viento
+MADRID,2018-11-22,Muy nuboso tendiendo a cubierto .,nubes
+MADRID,2018-11-22,Lluvias débiles y chubascos en la Sierra que se pueden extender al resto de la comunidad al final del día .,precipitacion
+MADRID,2018-11-22,Brumas y bancos de niebla matinales pudiendo ser persistentes en la Sierra .,humedad
+MADRID,2018-11-22,Temperaturas con pocos cambios .,temperatura
+MADRID,2018-11-22,Viento flojo de componente sur .,viento
+MADRID,2018-12-11,Poco nuboso con nubes altas ;aumentando a intervalos nubosos durante la tarde .,nubes
+MADRID,2018-12-11,Temperaturas sin cambios o en ligero descenso ;algo más acusado en las mínimas por el sureste ;donde habrá heladas débiles .,temperatura
+MADRID,2018-12-11,Vientos flojos variables .,viento
+MADRID,2018-12-23,Intervalos de nubes bajas con brumas y bancos de niebla matinales que tenderán a persistir hasta mediodía en el sur ;cuando se romperán las nieblas durante unas horas ; en el área de la Sierra ;predominarán los cielos pocos nubosos ;con intervalos de nubosidad alta .,nubes
+MADRID,2018-12-23,Temperaturas mínimas en aumento en la Sierra y con pocos cambios en el resto ;y máximas en aumento .,temperatura
+MADRID,2018-12-23,Viento flojo variable .,viento
+MADRID,2019-03-30,Poco nuboso o despejado con intervalos de nubes altas y algo de nubosidad de evolución por la tarde en la Sierra .,nubes
+MADRID,2019-03-30,Temperaturas con pocos cambios .,temperatura
+MADRID,2019-03-30,Viento flojo de componente este .,viento
+MADRID,2019-01-03,Despejado aumentando a intervalos de nubes altas por la tarde .,nubes
+MADRID,2019-01-03,Temperaturas mínimas en ascenso en la Sierra y sin cambios en el resto ; máximas en descenso en zonas bajas de la Sierra y sin cambios en el resto .,temperatura
+MADRID,2019-01-03,Heladas débiles generalizadas .,temperatura
+MADRID,2019-01-03,Viento del este y nordeste flojo y calma en horas centrales .,viento
+MADRID,2018-12-18,Nubosidad alta durante la primera mitad del día aumentando a muy nuboso o cubierto por la tarde ;con lluvias débiles y chubascos ;más intensos y frecuentes en la Sierra .,nubes
+MADRID,2018-12-18,Brumas y bancos de niebla matinales ;siendo más probables en la mitad suroeste .,humedad
+MADRID,2018-12-18,Cota de nieve descendiendo a 1500 - 1800 metros .,nieve
+MADRID,2018-12-18,Temperaturas sin cambios significativos .,temperatura
+MADRID,2018-12-18,Heladas débiles generalizadas .,temperatura
+MADRID,2018-12-18,Vientos flojos del noreste girando durante la mañana a componente sur ;también flojos .,viento
+MADRID,2018-12-04,Intervalos de nubes altas ;aunque al principio del día también se espera que esté nuboso con nubes bajas ;brumas y bancos de niebla en los valles del Tajo y Tajuña .,nubes
+MADRID,2018-12-04,Temperaturas mínimas en ascenso en la Sierra y con pocos cambios en el resto ; máximas en ascenso ;que será localmente notable en toda la comunidad excepto en la Sierra .,temperatura
+MADRID,2018-12-04,Viento flojo variable con cierto predominio de la componente este .,viento
+provincia,fecha,frase,clase
+LA RIOJA,2018-11-30,Nuboso o cubierto ;con precipitaciones débiles de madrugada ;sobre todo en la Rioja Baja ;tendiendo a poco nuboso o despejado .,nubes
+LA RIOJA,2018-11-30,Cota de nieve por encima de los 1500 o 1600 metros .,nieve
+LA RIOJA,2018-11-30,Temperaturas en ascenso en la Ribera y en descenso en la sierra .,temperatura
+LA RIOJA,2018-11-30,Heladas débiles en el Ibérico .,temperatura
+LA RIOJA,2018-11-30,Vientos del noroeste .,viento
+LA RIOJA,2018-12-03,Poco nuboso con intervalos nubes altas sin descartar las brumas y nubes bajas en la Rioja Alta .,nubes
+LA RIOJA,2018-12-03,Temperaturas en ligero ascenso o sin cambios .,temperatura
+LA RIOJA,2018-12-03,Vientos del suroeste en la sierra ;y flojos del oeste o en calma en el valle .,viento
+LA RIOJA,2018-11-25,Cubierto con precipitaciones débiles generalizadas ;tendiendo en las horas centrales del día a abrirse claros y remitir las precipitaciones ;para cubrirse de nuevo al final y con probables precipitaciones débiles ;principalmente en el oeste .,precipitacion
+LA RIOJA,2018-11-25,Cota de la nieve sobre 1800 bajando a unos 1500 metros .,nieve
+LA RIOJA,2018-11-25,Temperaturas sin cambios o en ligero descenso .,temperatura
+LA RIOJA,2018-11-25,Viento del suroeste en la Ibérica ;con intervalos de fuerte de madrugada ;y del sureste en la Ribera ;tendiendo a variables flojos .,viento
+LA RIOJA,2018-12-16,Nuboso o cubierto con precipitaciones ;débiles en el valle ;más intensas en la montaña ;al final de la mañana se abrirán claros y se harán las precipitaciones más ocasionales y dispersas .,precipitacion
+LA RIOJA,2018-12-16,Cota de nieve 1600 bajando a 1200 metros .,nieve
+LA RIOJA,2018-12-16,Temperaturas sin grandes cambios ;las mínimas se darán al final del día .,temperatura
+LA RIOJA,2018-12-16,Vientos en la Iberica del suroeste al oeste con rachas ;y del sureste al oeste en el valle .,viento
+LA RIOJA,2019-01-11,Intervalos nubosos en la Rioja Alta y poco nuboso en el resto ;tendiendo en la segunda mitad del día a nuboso o cubierto en toda la región .,nubes
+LA RIOJA,2019-01-11,No se descarta alguna nevada débil en la Demanda por encima de 400 metros .,precipitacion
+LA RIOJA,2019-01-11,Temperaturas mínimas en ligero descenso en la Ribera Baja y sin cambios en el resto ;y máximas sin cambios .,temperatura
+LA RIOJA,2019-01-11,Heladas generalizadas ;débiles en el valle .,temperatura
+LA RIOJA,2019-01-11,Vientos del norte y noroeste ;con intervalos fuertes en la Rioja Baja .,viento
+LA RIOJA,2018-12-24,Intervalos de nubes altas .,nubes
+LA RIOJA,2018-12-24,Probabilidad de brumas y nieblas en la Ribera ;sobre todo en la Baja ;en la primera mitad del día .,humedad
+LA RIOJA,2018-12-24,Temperaturas mínimas sin cambios y máximas en ascenso en la Rioja Baja y sin cambios o en ligero descenso en el resto .,temperatura
+LA RIOJA,2018-12-24,Vientos flojos variables .,viento
+LA RIOJA,2018-11-20,Nuboso o cubierto con precipitaciones débiles generalizadas ;más intensas en la sierra ;donde pueden ser persistentes .,precipitacion
+LA RIOJA,2018-11-20,Tienden a disminuir en el valle por la tarde .,otros
+LA RIOJA,2018-11-20,Cota de la nieve por encima de 1800 metros bajando a unos 1500 .,nieve
+LA RIOJA,2018-11-20,Temperaturas mínimas sin cambios ;y máximas en descenso .,temperatura
+LA RIOJA,2018-11-20,Vientos del suroeste en la sierra y del sureste en el valle ;flojos en general .,viento
+LA RIOJA,2018-12-13,Nuboso a cubierto con precipitaciones ;tendiendo en la segunda mitad del día a hacerse más ocasionales y dispersas en el valle .,precipitacion
+LA RIOJA,2018-12-13,Cota de nieve de 1700 metros bajando a 1000 en la segunda mitad del día .,nieve
+LA RIOJA,2018-12-13,Temperaturas mínimas en ligero ascenso y máximas en descenso .,temperatura
+LA RIOJA,2018-12-13,Heladas débiles en la Sierra por la tarde y noche .,temperatura
+LA RIOJA,2018-12-13,Viento flojos al principio ;del suroeste en la sierra y del sureste en el valle ;girando al oeste y noroeste y aumentando ;con rachas fuertes ;sobre todo en zonas altas .,viento
+LA RIOJA,2019-01-08,Nuboso .,nubes
+LA RIOJA,2019-01-08,Temperaturas mínimas sin cambios o en ligero ascenso y máximas en ligero ascenso .,temperatura
+LA RIOJA,2019-01-08,Heladas en la Sierra .,temperatura
+LA RIOJA,2019-01-08,Vientos del norte y noroeste ;con rachas fuertes en la Rioja Baja .,viento
+LA RIOJA,2018-12-21,Intervalos nubosos ;más abundantes en el Iberico ;donde no se descartan lloviznas dispersas .,nubes
+LA RIOJA,2018-12-21,Probabilidad de brumas y bancos de niebla .,humedad
+LA RIOJA,2018-12-21,Temperaturas sin cambios o en descenso en la ribera media y baja del Ebro y en ascenso el resto .,temperatura
+LA RIOJA,2018-12-21,Vientos del suroeste en la sierra y del sureste o variables en el valle ;flojos en general .,viento
+LA RIOJA,2018-11-29,Intervalos de nubes altas ;con nubes bajas en el valle que dan brumas y bancos de niebla matinales ;tendiendo por la tarde a nuboso o cubierto con precipitaciones débiles .,nubes
+LA RIOJA,2018-11-29,Cota de nieve bajando a 1800 metros al final del día .,nieve
+LA RIOJA,2018-11-29,Temperaturas mínimas sin cambios o en ligero descenso y máximas sin cambios en la sierra y en descenso en el resto .,temperatura
+LA RIOJA,2018-11-29,Vientos del suroeste en la Ibérica ;y del sureste flojos en el valle .,viento
+LA RIOJA,2018-12-28,Nuboso o cubierto sin descartar precipitaciones débiles dispersas ;sobre todo en la Rioja Alta y en forma de nieve a partir de 1800 metros .,nubes
+LA RIOJA,2018-12-28,Temperaturas mínimas sin cambios o en ligero ascenso ;y máximas en descenso ;localmente notable en la Ibérica .,temperatura
+LA RIOJA,2018-12-28,Heladas débiles en la sierra .,temperatura
+LA RIOJA,2018-12-28,Vientos del norte y noroeste .,viento
+LA RIOJA,2018-12-06,Poco nuboso con nubosidad baja .,nubes
+LA RIOJA,2018-12-06,Probables brumas y nieblas .,humedad
+LA RIOJA,2018-12-06,Temperaturas en decenso ;excepto las máximas en la Ribera que experimentarán un ascenso .,temperatura
+LA RIOJA,2018-12-06,Heladas débiles en la Ibérica .,temperatura
+LA RIOJA,2018-12-06,Vientos del oeste al norte ;flojos .,viento
+LA RIOJA,2018-12-05,Poco nuboso con intervalos de nubes altas ;aunque en el valle habrá nubosidad baja con probables brumas y nieblas ;que podrán ser persistentes .,nubes
+LA RIOJA,2018-12-05,Temperaturas mínimas sin cambios o en ligero ascenso y máximas en descenso en el valle y sin cambios en el resto .,temperatura
+LA RIOJA,2018-12-05,Vientos del suroeste en el Ibérico y del variables en el Valle .,viento
+LA RIOJA,2018-12-19,Nuboso con probables precipitaciones débiles dispersas en la Sierra .,precipitacion
+LA RIOJA,2018-12-19,Cota de nieve de 1000 a 1200 m subiendo a 1400 a 1600 m .,nieve
+LA RIOJA,2018-12-19,Temperaturas mínimas en ascenso en le Rioja Alta y sin cambios en el resto y máximas en descenso en la Sierra y en ligero ascenso o sin cambios en el resto .,temperatura
+LA RIOJA,2018-12-19,Heladas débiles en la Sierra .,temperatura
+LA RIOJA,2018-12-19,Vientos del suroeste en la Sierra y del oeste al noroeste en la Ribera .,viento
+LA RIOJA,2018-12-22,Poco nuboso con intervalos de nubes bajas y altas .,nubes
+LA RIOJA,2018-12-22,Probables brumas y nieblas matinales en la Ribera .,humedad
+LA RIOJA,2018-12-22,Temperaturas mínimas sin cambios o en ligero descenso y máximas en ascenso .,temperatura
+LA RIOJA,2018-12-22,Vientos flojos variables .,viento
+LA RIOJA,2018-12-10,Intervalos de nubes bajas con brumas y nieblas por la mañana ;sobre todo en la Rioja Alta ;y tendiendo a poco nuboso a mediodía .,nubes
+LA RIOJA,2018-12-10,Temperaturas en ligero descenso .,temperatura
+LA RIOJA,2018-12-10,Heladas débiles en la Ibérica .,temperatura
+LA RIOJA,2018-12-10,Vientos del noroeste y norte ;flojos .,viento
+LA RIOJA,2018-11-23,Cubierto con precipitaciones débiles ;tendiendo durante la mañana a abrirse claros y a desaparecer las precipitaciones por la tarde .,precipitacion
+LA RIOJA,2018-11-23,Cota de la nieve de 1400 metros bajando a 1200 durante la mañana .,nieve
+LA RIOJA,2018-11-23,Temperaturas mínimas en ligero ascenso en la Rioja Alta y en descenso en la Baja y máximas en ligero descenso o sin cambios .,temperatura
+LA RIOJA,2018-11-23,Heladas débiles en la sierra .,temperatura
+LA RIOJA,2018-11-23,Vientos del sur en la Ibérica y del sureste en el Valle girando al suroeste por la tarde .,viento
+LA RIOJA,2018-12-27,Intervalos de nubes altas con brumas y nieblas o nubes bajas ;que en el valle del Ebro pueden mantenerse durante la mañana .,nubes
+LA RIOJA,2018-12-27,Temperaturas mínimas sin cambios o en descenso ligero ;y máximas en ligero ascenso .,temperatura
+LA RIOJA,2018-12-27,Heladas débiles en la sierra .,temperatura
+LA RIOJA,2018-12-27,Vientos variables tendiendo al final a componente norte ;flojos .,viento
+LA RIOJA,2018-12-09,Poco nuboso aumentando a intervalos nubosos en la segunda mitad del día .,nubes
+LA RIOJA,2018-12-09,No se descartan algunas brumas y nieblas matinales .,humedad
+LA RIOJA,2018-12-09,Temperaturas sin cambios .,temperatura
+LA RIOJA,2018-12-09,Heladas débiles en zonas altas de la Ibérica .,temperatura
+LA RIOJA,2018-12-09,Viento del oeste al noroeste flojo ;con algunos intervalos de más intensidad en la Rioja Baja .,viento
+LA RIOJA,2018-12-15,Nuboso con probables precipitaciones débiles ;sobre todo en el entorno de la Rioja Alta .,precipitacion
+LA RIOJA,2018-12-15,Temperaturas mínimas en ligero ascenso ;y máximas en ascenso .,temperatura
+LA RIOJA,2018-12-15,Vientos del suroeste en la sierra ;y del sureste flojos en el valle .,viento
+LA RIOJA,2018-11-26,Nuboso o cubierto con precipitaciones ;que remitirán en la segunda mitad del día .,precipitacion
+LA RIOJA,2018-11-26,Cota de la nieve entre 1200 y 1400 metros .,nieve
+LA RIOJA,2018-11-26,Temperaturas mínimas sin cambios y máximas en descenso .,temperatura
+LA RIOJA,2018-11-26,Heladas débiles en la sierra .,temperatura
+LA RIOJA,2018-11-26,Viento del oeste al noroeste con rachas fuertes .,viento
+LA RIOJA,2019-01-07,Intervalos de nubes bajas ;tendiendo a nuboso en la Rioja Alta ;y a poco nuboso en la Rioja Baja .,nubes
+LA RIOJA,2019-01-07,Temperaturas mínimas en ligero descenso en la Sierra y sin cambios en el resto ;y máximas en descenso .,temperatura
+LA RIOJA,2019-01-07,Heladas débiles generalizadas ;excepto en la Ribera Baja .,temperatura
+LA RIOJA,2019-01-07,Vientos del norte y noroeste .,viento
+LA RIOJA,2018-12-29,Nuboso sin descartar precipitaciones débiles ocasionales al principio ;sobre todo en la Rioja Alta ;y tendiendo a intervalos nubosos .,nubes
+LA RIOJA,2018-12-29,Cota de nieve sobre 1600 metros .,nieve
+LA RIOJA,2018-12-29,Probables brumas y nieblas matinales .,humedad
+LA RIOJA,2018-12-29,Temperaturas sin cambios o en ligero descenso .,temperatura
+LA RIOJA,2018-12-29,Heladas débiles en la sierra .,temperatura
+LA RIOJA,2018-12-29,Vientos de norte y noroeste .,viento
+LA RIOJA,2018-12-07,Poco nuboso con algunos intervalos de nubes bajas y sin descartar brumas y nieblas matinales .,nubes
+LA RIOJA,2018-12-07,Aumento de la nubosidad por la tarde a cielos nubosos o cuibertos ;con probables precipitaciones débiles al final ;sobre todo en la sierra ;en forma de nieve a partir de 1600 metros .,nubes
+LA RIOJA,2018-12-07,Temperaturas sin cambios pudiendo experimentar las mínimas un ligero descenso y las máximas un ligero ascenso .,temperatura
+LA RIOJA,2018-12-07,Heladas débiles en la Sierra .,temperatura
+LA RIOJA,2018-12-07,Vientos del oeste o noroeste ;flojos en general .,viento
+LA RIOJA,2018-11-28,Intervalos de nubes altas con probabilidad de brumas y bancos de niebla matinales .,nubes
+LA RIOJA,2018-11-28,Temperaturas mínimas sin cambios y máximas sin cambios en el valle y en ligero ascenso en la Ibérica .,temperatura
+LA RIOJA,2018-11-28,Heladas débiles en la sierra .,temperatura
+LA RIOJA,2018-11-28,Vientos flojos ;del sur o suroeste en la Ibérica y variables o en calma en el valle .,viento
+LA RIOJA,2018-12-20,Nuboso o cubierto con probables precipitaciones débiles al principio en la sierra ;y tendiendo a poco nuboso en el valle .,precipitacion
+LA RIOJA,2018-12-20,Cota de nieve de 1400 a 1600 metros subiendo a cotas altas .,nieve
+LA RIOJA,2018-12-20,Probables brumas y bancos de niebla matinales ;sobre todo en la Rioja Alta .,humedad
+LA RIOJA,2018-12-20,Temperaturas en ascenso ligero .,temperatura
+LA RIOJA,2018-12-20,Heladas débiles en cumbres .,temperatura
+LA RIOJA,2018-12-20,Vientos del suroeste en el Ibérico ;y variables flojos en el Valle del Ebro .,viento
+LA RIOJA,2018-12-12,Poco nuboso con intervalos de nubes bajas que puede ocasionar brumas y nieblas matinales ;aumentando la nubosidad por la tarde .,nubes
+LA RIOJA,2018-12-12,Temperaturas mínimas en ascenso en la Ribera y en descenso en la Ibérica y máximas en descenso .,temperatura
+LA RIOJA,2018-12-12,Heladas débiles en la sierra .,temperatura
+LA RIOJA,2018-12-12,Vientos flojos del oeste y noroeste por la mañana aumentando al final ;fijándose del suroeste excepto en la Ribera que soplará del sureste .,viento
+LA RIOJA,2018-11-21,Nuboso o cubierto ;con probables precipitaciones débiles en la Ibérica y sin descartarlas en la Ribera ;remitiendo y tendiendo a intervalos nubosos o poco nuboso .,precipitacion
+LA RIOJA,2018-11-21,Cota de nieve de unos 1400 a 1600 metros .,nieve
+LA RIOJA,2018-11-21,Temperaturas mínimas en descenso y máximas en ascenso que podría ser notable .,temperatura
+LA RIOJA,2018-11-21,Heladas débiles en la sierra .,temperatura
+LA RIOJA,2018-11-21,Vientos del suroeste al sur en la Ibérica ;y flojos variables fijándose al sureste en la Ribera .,viento
+LA RIOJA,2019-01-09,Nuboso o cubierto ;sin descartar precipitaciones débiles ;sobre todo en la Rioja Alta ;en forma de nieve por encima de 800 o 1000 metros .,nieve
+LA RIOJA,2019-01-09,Temperaturas sin cambios ;salvo las máximas en la Sierra que descenderán .,temperatura
+LA RIOJA,2019-01-09,Heladas débiles en la Sierra .,temperatura
+LA RIOJA,2019-01-09,Vientos del norte y noroeste ;con intervalos de fuertes en la Rioja Baja y el Iberico .,viento
+LA RIOJA,2018-12-25,Poco nuboso con nubes altas .,nubes
+LA RIOJA,2018-12-25,Brumas y nieblas ;sobre todo en el valle del Ebro .,humedad
+LA RIOJA,2018-12-25,Temperaturas mínimas en ligero ascenso o sin cambios y máximas en descenso en la ribera del Ebro y sin cambios o en ascenso ligero en el resto .,temperatura
+LA RIOJA,2018-12-25,Vientos del sureste o variables ;flojos .,viento
+LA RIOJA,2018-12-17,Predominio de cielos poco nuboso .,nubes
+LA RIOJA,2018-12-17,No se descartan brumas y bancos de niebla .,humedad
+LA RIOJA,2018-12-17,Temperaturas en descenso .,temperatura
+LA RIOJA,2018-12-17,Heladas débiles ;menos probables en el valle .,temperatura
+LA RIOJA,2018-12-17,Vientos del noroeste a variables ;flojos .,viento
+LA RIOJA,2018-11-24,Intervalos nubosos ;predominando la nubosidad media y alta ;tendiendo a nuboso o cubierto ;con probables precipitaciones débiles a últimas horas .,nubes
+LA RIOJA,2018-11-24,Cota de nieve ;por encima de 1600 a 1800 m. Temperaturas sin cambios o en ligero descenso .,nieve
+LA RIOJA,2018-11-24,Heladas débiles en la Ibérica .,temperatura
+LA RIOJA,2018-11-24,Vientos del suroeste en la sierra y del sureste en el valle .,viento
+LA RIOJA,2018-12-02,Poco nuboso ;con interalos nubosos en el oeste y sur .,nubes
+LA RIOJA,2018-12-02,No se descartan brumas y bancos de niebla matinales .,humedad
+LA RIOJA,2018-12-02,Temperaturas en ascenso ;ligero en general .,temperatura
+LA RIOJA,2018-12-02,Vientos del suroeste en la sierra y flojos variables en el valle .,viento
+LA RIOJA,2019-01-06,Poco nuboso ;aumentando a últimas horas a intervalos nubosos de nubes bajas ;sobre todo en la Rioja Alta .,nubes
+LA RIOJA,2019-01-06,Temperaturas mínimas sin cambios o en ligero ascenso ;y máximas en ligero descenso .,temperatura
+LA RIOJA,2019-01-06,Heladas débiles generalizadas ;salvo en la Rioja Baja .,temperatura
+LA RIOJA,2019-01-06,Vientos del noroeste en el Valle y del norte en la Sierra .,viento
+LA RIOJA,2018-12-01,Poco nuboso aumentando a nuboso ;predominando la de tipo medio y alto .,nubes
+LA RIOJA,2018-12-01,No se descartan brumas y nieblas matinales .,humedad
+LA RIOJA,2018-12-01,Temperaturas mínimas sin cambios o en ligero descenso ;y máximas en ascenso .,temperatura
+LA RIOJA,2018-12-01,Heladas en la sierra ;débiles en general .,temperatura
+LA RIOJA,2018-12-01,Vientos del suroeste en la Sierra y flojos variables en el Valle .,viento
+LA RIOJA,2018-11-27,Intervalos de nubes medias y altas ;más nuboso en la Rioja Alta de madugada .,nubes
+LA RIOJA,2018-11-27,No se descartan brumas y bancos de niebla matinales .,humedad
+LA RIOJA,2018-11-27,Temperaturas mínimas en descenso y máximas en ascenso .,temperatura
+LA RIOJA,2018-11-27,Vientos del oeste o suroeste ;flojos .,viento
+LA RIOJA,2018-12-14,Nuboso tendiendo a intervalos nubosos al final ;con probabilidad de precipitaciones débiles dispersas en la Rioja alta ;y sin descartar alguna ocasional en el resto .,nubes
+LA RIOJA,2018-12-14,Cota de nieve de 1000 a 1200 metros .,nieve
+LA RIOJA,2018-12-14,Temperaturas mínimas en ligero descenso y máximas en ligero ascenso .,temperatura
+LA RIOJA,2018-12-14,Heladas débiles en la Sierra .,temperatura
+LA RIOJA,2018-12-14,Vientos del noroeste .,viento
+LA RIOJA,2019-01-13,Nuboso o cubierto ;sin descartar precipitaciones débiles ocasionales en la Rioja Alta .,precipitacion
+LA RIOJA,2019-01-13,Cota de nieve por encima de 1000 o 1100 metros subiendo a 1500 .,nieve
+LA RIOJA,2019-01-13,Temperaturas en ligero ascenso .,temperatura
+LA RIOJA,2019-01-13,Heladas débiles en la Ibérica .,temperatura
+LA RIOJA,2019-01-13,Vientos del norte en la Sierra y del noroeste en el Valle ;con algún intervalo de fuertes en la Rioja Baja .,viento
+LA RIOJA,2018-12-26,En el valle del Ebro nuboso con nubes bajas o nieblas y brumas que pueden ser persistentes .,nubes
+LA RIOJA,2018-12-26,En la Ibérica poco nuboso con intervalos de nubes altas .,nubes
+LA RIOJA,2018-12-26,Temperaturas mínimas sin cambios o en ligero descenso y máximas en descenso .,temperatura
+LA RIOJA,2018-12-26,Vientos flojos del sur y sureste .,viento
+LA RIOJA,2018-12-08,Nubes bajas o nieblas al principio tendiendo durante la mañana a poco nuboso con intrevalos de nubes altas .,nubes
+LA RIOJA,2018-12-08,Temperaturas mínimas en ascenso y máximas en descenso .,temperatura
+LA RIOJA,2018-12-08,Heladas débiles en la Sierra .,temperatura
+LA RIOJA,2018-12-08,Vientos del noroeste flojos ;más intensos en la Rioja Baja .,viento
+LA RIOJA,2018-11-22,Intervalos nubosos sin descartar algunas precipitaciones débiles dispersas .,precipitacion
+LA RIOJA,2018-11-22,No se descartan brumas y bancos de niebla .,humedad
+LA RIOJA,2018-11-22,Temperaturas mínimas en ligero descenso y máximas sin cambios .,temperatura
+LA RIOJA,2018-11-22,Heladas débiles en la sierra .,temperatura
+LA RIOJA,2018-11-22,Vientos del sur en la Ibérica ;y del sureste en el valle .,viento
+LA RIOJA,2018-12-11,Intervalos de nubes altas ;aumentando por nubosidad media por la tarde y tendiendo a poco nuboso al final .,nubes
+LA RIOJA,2018-12-11,No se pueden descartar brumas y nieblas matinales en el valle .,humedad
+LA RIOJA,2018-12-11,Temperaturas mínimas sin cambios y máximas en ascenso .,temperatura
+LA RIOJA,2018-12-11,Heladas débiles en la sierra .,temperatura
+LA RIOJA,2018-12-11,Vientos flojos variables .,viento
+LA RIOJA,2018-12-23,Intervalos de nubes altas .,nubes
+LA RIOJA,2018-12-23,Probabilidad de brumas y nieblas o nubes bajas en el valle ;sobre todo en la Ribera Baja .,nubes
+LA RIOJA,2018-12-23,Temperaturas mínimas sin cambios o en ligero descenso ;y máximas en descenso en el valle y en ascenso en la Ibérica .,temperatura
+LA RIOJA,2018-12-23,Vientos flojos de componente oeste girando por la tarde en el valle a componente este .,viento
+LA RIOJA,2019-03-30,Poco nuboso con nubosidad de evolución por la tarde ;sobre todo en la Sierra .,nubes
+LA RIOJA,2019-03-30,Temperaturas mínimas en ascenso y máximas sin cambios o en ligero descenso .,temperatura
+LA RIOJA,2019-03-30,Heladas débiles en zonas altas de la Ibérica .,temperatura
+LA RIOJA,2019-03-30,Vientos del sur y sureste ;flojos en general .,viento
+LA RIOJA,2019-01-03,Poco nuboso ;con intervalos de nubes altas .,nubes
+LA RIOJA,2019-01-03,En el Valle probables brumas y nieblas o nubes bajas matinales .,nubes
+LA RIOJA,2019-01-03,Temperaturas mínimas en descenso en la Ribera y sin cambios en el resto y máximas en ascenso .,temperatura
+LA RIOJA,2019-01-03,Heladas generalizadas .,temperatura
+LA RIOJA,2019-01-03,Vientos del norte y noroeste .,viento
+LA RIOJA,2018-12-18,Poco nuboso por la mañana con probables brumas y nieblas o nubes bajas en la Rioja Alta ;tendiendo en la segunda mitad del día a nuboso o cubierto ;con precipitaciones débiles por la noche en la Rioja Alta y la Ibérica ;sin descartarlas en el resto .,nubes
+LA RIOJA,2018-12-18,Cota de la nieve de 1600 metros bajando a 1200 .,nieve
+LA RIOJA,2018-12-18,Temperaturas en ascenso ligero en la sierra y en ligero descenso o sin cambios en el resto .,temperatura
+LA RIOJA,2018-12-18,Heladas débiles ;poco probables en el valle .,temperatura
+LA RIOJA,2018-12-18,Vientos del suroeste en la Iberica y del sureste en el resto ;flojos al principio aumentando por la tarde con intervalos de fuerte en la sierra .,viento
+LA RIOJA,2018-12-04,Poco nuboso con intervalos de nubes altas ;aunque sin descartar las nubes bajas en la Ribera ;que pueden dar brumas y bancos de niebla matinales .,nubes
+LA RIOJA,2018-12-04,Temperaturas sin cambios ;salvo las máximas en la Sierra ;rn ligero ascenso .,temperatura
+LA RIOJA,2018-12-04,Vientos flojos ;del sur en la Ibérica y variables en el resto .,viento
