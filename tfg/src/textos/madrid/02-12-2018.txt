@@ -1,0 +1,22 @@
+AGENCIA ESTATAL DE METEOROLOGÍA
+PREDICCIÓN PARA LA PROVINCIA DE MADRID
+DÍA 1 DE DICIEMBRE DE 2018 A LAS 15:51 HORA OFICIAL
+PREDICCIÓN VALIDA PARA EL DOMINGO 2
+
+MADRID
+Intervalos de nubes altas, aunque también se esperan nubes bajas
+al principio y al final del día, salvo en cotas altas de la
+Sierra, que irán acompañadas de brumas y bancos de niebla en el
+centro y sur de la Comunidad. Temperaturas mínimas en aumento y
+máximas que suben en zonas altas y se mantienen sin cambios o en
+ligero descenso en las zonas afectadas con nieblas. Vientos flojos
+variables.
+
+TEMPERATURAS MÍNIMAS Y MÁXIMAS PREVISTAS (C):
+Madrid                        5   11  
+Alcalá de Henares             1   12  
+Getafe                        4   12  
+Collado Villalba              5   13  
+Navalcarnero                  4   12  
+Aranjuez                      2   14  
+
